@@ -14,3 +14,12 @@
 <img src="moon_patrol/moonpatrol-korean-screenshot-2.png" alt="달탐사대 2" width="50%" />
 
 - [게임 다운로드 (v1.1)](moon_patrol/moon_patrol-korean-v1.1.dsk)
+
+# 마이크로 소코반 한글판
+
+<img src="microsokoban_ko/micoroskoban_ko-1.png" alt="마이크로 소코반 한글판 1" width="50%" />
+
+<img src="microsokoban_ko/micoroskoban_ko-2.png" alt="마이크로 소코반 한글판 2" width="50%" />
+
+- [한글판 게임 다운로드](microsokoban_ko/MICRO-SOKOBAN-ko.dsk)
+- 오리지널, https://github.com/habib256/pom2games/releases/tag/1.0
