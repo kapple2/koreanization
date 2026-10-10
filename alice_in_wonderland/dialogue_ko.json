@@ -1,0 +1,2888 @@
+[
+  {
+    "i": 0,
+    "addr": "0x9100",
+    "en": "START GAME",
+    "ko": "시작하기"
+  },
+  {
+    "i": 1,
+    "addr": "0x910A",
+    "en": "CONTINUE",
+    "ko": "계속하기"
+  },
+  {
+    "i": 2,
+    "addr": "0x9114",
+    "en": "DISK STORAGE",
+    "ko": "저장"
+  },
+  {
+    "i": 3,
+    "addr": "0x911E",
+    "en": "SAMPLE GAME",
+    "ko": "샘플"
+  },
+  {
+    "i": 4,
+    "addr": "0x9128",
+    "en": "SAVE RESTORE CREATE RETURN TO MENU",
+    "ko": "저장 복원 만들기 메뉴로"
+  },
+  {
+    "i": 5,
+    "addr": "0x9141",
+    "en": "GAME 1 2 3 4 5",
+    "ko": "게임 1 2 3 4 5"
+  },
+  {
+    "i": 6,
+    "addr": "0x9154",
+    "en": "INSERT STORAGE DISK - PRESS TRIGGER",
+    "ko": "저장 디스크를 넣고\n트리거를 누르세요"
+  },
+  {
+    "i": 7,
+    "addr": "0x916C",
+    "en": "WHO ARE YOU?",
+    "ko": "누구세요?"
+  },
+  {
+    "i": 8,
+    "addr": "0x9177",
+    "en": "WHERE AM I?",
+    "ko": "여기가 어디죠?"
+  },
+  {
+    "i": 9,
+    "addr": "0x9181",
+    "en": "WHY ARE YOU DOING THAT?",
+    "ko": "왜 그러세요?"
+  },
+  {
+    "i": 10,
+    "addr": "0x9193",
+    "en": "RETURN TO MENU",
+    "ko": "메뉴로"
+  },
+  {
+    "i": 11,
+    "addr": "0x919E",
+    "en": "TIME TO VISIT THE EYE DOCTOR. THERE'S\nNOTHING TO EXAMINE.",
+    "ko": "볼 게 없네요.\n안과에 가볼 때죠."
+  },
+  {
+    "i": 12,
+    "addr": "0x91C5",
+    "en": "IT LOOKS LIKE",
+    "ko": "이것은"
+  },
+  {
+    "i": 13,
+    "addr": "0x91CF",
+    "en": "YOU FIND",
+    "ko": "찾았다"
+  },
+  {
+    "i": 14,
+    "addr": "0x91D6",
+    "en": "NOTHING HERE TO TAKE",
+    "ko": "가져갈 게 없다"
+  },
+  {
+    "i": 15,
+    "addr": "0x91EE",
+    "en": "TRY LITTERING SOME PLACE ELSE.",
+    "ko": "다른 데에 버려요."
+  },
+  {
+    "i": 16,
+    "addr": "0x9203",
+    "en": "WHAT WILL YOU DROP?",
+    "ko": "뭘 놓을까?"
+  },
+  {
+    "i": 17,
+    "addr": "0x9212",
+    "en": "NOTHING",
+    "ko": "없음"
+  },
+  {
+    "i": 18,
+    "addr": "0x9221",
+    "en": "YOU HAVE",
+    "ko": "가진 것"
+  },
+  {
+    "i": 19,
+    "addr": "0x9228",
+    "en": "USE WHAT?",
+    "ko": "뭘 쓸까?"
+  },
+  {
+    "i": 20,
+    "addr": "0x9231",
+    "en": "THE WHISKER IS USELESS HERE",
+    "ko": "여기선 수염은 소용없다"
+  },
+  {
+    "i": 21,
+    "addr": "0x9248",
+    "en": "THE CRAVAT IS USELESS HERE",
+    "ko": "여기선 넥타이는 소용없다"
+  },
+  {
+    "i": 22,
+    "addr": "0x925F",
+    "en": "EAT WHAT?",
+    "ko": "뭘 먹을까?"
+  },
+  {
+    "i": 23,
+    "addr": "0x9268",
+    "en": "SURELY YOU JEST. YOU'RE OFFERING IT\nTO EMPTY AIR.",
+    "ko": "농담이죠?\n허공에 주고 있어요."
+  },
+  {
+    "i": 24,
+    "addr": "0x928A",
+    "en": "OFFER WHAT?",
+    "ko": "뭘 줄까?"
+  },
+  {
+    "i": 25,
+    "addr": "0x9294",
+    "en": "SOUND IS NOW ON",
+    "ko": "소리 켜짐"
+  },
+  {
+    "i": 26,
+    "addr": "0x92A6",
+    "en": "SOUND IS NOW OFF",
+    "ko": "소리 꺼짐"
+  },
+  {
+    "i": 27,
+    "addr": "0x92B8",
+    "en": "SING WHAT?",
+    "ko": "뭘 노래할까?"
+  },
+  {
+    "i": 28,
+    "addr": "0x92C2",
+    "en": "THE CHARACTER IS TOO SCARED TO RESPOND",
+    "ko": "너무 무서워 대답 못 한다"
+  },
+  {
+    "i": 29,
+    "addr": "0x92DB",
+    "en": "YOUR VOICE IS TOO FAINT TO BE HEARD.",
+    "ko": "목소리가 너무 작다."
+  },
+  {
+    "i": 30,
+    "addr": "0x92F4",
+    "en": "REMOVE STORAGE DISK \n AND REPLACE GAME DISK B. \n\n PRESS TRIGGER TO RESUME GAME.",
+    "ko": "저장 디스크를 빼고\n게임 이면 디스크를 넣으세요.\n\n트리거를 누르면 이어합니다."
+  },
+  {
+    "i": 31,
+    "addr": "0x9335",
+    "en": "GAME NOT FOUND. REMOVE STORAGE \n DISK AND REPLACE GAME DISK B. \n\n PRESS TRIGGER TO RESUME GAME.",
+    "ko": "게임을 못 찾았습니다.\n저장 디스크를 빼고 이면을 넣으세요.\n\n트리거를 누르면 이어합니다."
+  },
+  {
+    "i": 32,
+    "addr": "0x937F",
+    "en": "THE UGLY BABY CHANGES INTO A RATHER\nHANDSOME PIG WHICH TROTS OFF WITHOUT\nTHE PROMISE OF A MOTHER'S DAY CARD.\nALL THAT IS LEFT IS ITS RATTLE.",
+    "ko": "못난 아기가 잘생긴 돼지로\n바뀌어 달아났다.\n어버이날 카드는 기대 말라.\n딸랑이만 남았다."
+  },
+  {
+    "i": 33,
+    "addr": "0x93D9",
+    "en": "OFF WITH HER HEAD! OFF WITH HER HEAD!",
+    "ko": "목을 쳐라! 목을 쳐라!"
+  },
+  {
+    "i": 34,
+    "addr": "0x93F4",
+    "en": "HAIL QUEEN ALICE! YOU'RE ALMOST HOME.",
+    "ko": "앨리스 여왕 만세! 거의 다 왔다."
+  },
+  {
+    "i": 35,
+    "addr": "0x9416",
+    "en": "OOF. YOU'RE TOO BIG AND THIS DOOR IS\nTOO TINY FOR YOU TO ENTER.",
+    "ko": "윽. 너무 커서 이 문은\n들어갈 수 없다."
+  },
+  {
+    "i": 36,
+    "addr": "0x9440",
+    "en": "SORRY",
+    "ko": "미안"
+  },
+  {
+    "i": 37,
+    "addr": "0x9445",
+    "en": "YOU NEED THE QUEEN'S KEY.",
+    "ko": "여왕의 열쇠가 필요하다."
+  },
+  {
+    "i": 38,
+    "addr": "0x945A",
+    "en": "AHEM. THE DOOR HAPPENS TO BE LOCKED.",
+    "ko": "에헴. 문이 잠겨 있다."
+  },
+  {
+    "i": 39,
+    "addr": "0x9473",
+    "en": "DIDN'T YOUR MOTHER WARN YOU THAT\nTHERE'D BE DAYS LIKE THIS?",
+    "ko": "이런 날도 있다고\n어머니가 말하지 않았니?"
+  },
+  {
+    "i": 40,
+    "addr": "0x949C",
+    "en": "DRAT! A NIMBLE PAW SNATCHES SOMETHING\nFROM YOU.",
+    "ko": "이런! 날랜 발이 뭔가를\n낚아챘다."
+  },
+  {
+    "i": 41,
+    "addr": "0x94BD",
+    "en": "I SAY, OLD BEAN, STUDENTS ONLY.",
+    "ko": "이보게, 학생만 된다네."
+  },
+  {
+    "i": 42,
+    "addr": "0x94D5",
+    "en": "A STICK",
+    "ko": "막대"
+  },
+  {
+    "i": 43,
+    "addr": "0x94E1",
+    "en": "A BABY",
+    "ko": "아기"
+  },
+  {
+    "i": 44,
+    "addr": "0x94ED",
+    "en": "A RATTLE",
+    "ko": "딸랑이"
+  },
+  {
+    "i": 45,
+    "addr": "0x94F9",
+    "en": "A MUFFIN",
+    "ko": "머핀"
+  },
+  {
+    "i": 46,
+    "addr": "0x9505",
+    "en": "A MEMO",
+    "ko": "메모"
+  },
+  {
+    "i": 47,
+    "addr": "0x9511",
+    "en": "A WHISKER",
+    "ko": "수염"
+  },
+  {
+    "i": 48,
+    "addr": "0x951D",
+    "en": "A CRICKET BAT",
+    "ko": "방망이"
+  },
+  {
+    "i": 49,
+    "addr": "0x9529",
+    "en": "A BROOCH",
+    "ko": "브로치"
+  },
+  {
+    "i": 50,
+    "addr": "0x9535",
+    "en": "A FAN",
+    "ko": "부채"
+  },
+  {
+    "i": 51,
+    "addr": "0x9541",
+    "en": "BREAD-N-BUTTERFLY",
+    "ko": "빵나비"
+  },
+  {
+    "i": 52,
+    "addr": "0x954F",
+    "en": "A CRAVAT",
+    "ko": "넥타이"
+  },
+  {
+    "i": 53,
+    "addr": "0x955B",
+    "en": "A PAPER CROWN",
+    "ko": "종이 왕관"
+  },
+  {
+    "i": 54,
+    "addr": "0x9567",
+    "en": "A SEASHELL",
+    "ko": "조개"
+  },
+  {
+    "i": 55,
+    "addr": "0x9573",
+    "en": "A KEY",
+    "ko": "열쇠"
+  },
+  {
+    "i": 56,
+    "addr": "0x957F",
+    "en": "MARMALADE",
+    "ko": "마멀레이드"
+  },
+  {
+    "i": 57,
+    "addr": "0x958B",
+    "en": "A TOP HAT",
+    "ko": "실크햇"
+  },
+  {
+    "i": 58,
+    "addr": "0x9597",
+    "en": "A PARASOL",
+    "ko": "양산"
+  },
+  {
+    "i": 59,
+    "addr": "0x95A3",
+    "en": "A TIN OF COMFITS",
+    "ko": "사탕 통"
+  },
+  {
+    "i": 60,
+    "addr": "0x95AF",
+    "en": "A TEACUP",
+    "ko": "찻잔"
+  },
+  {
+    "i": 61,
+    "addr": "0x95BB",
+    "en": "A TEAPOT",
+    "ko": "찻주전자"
+  },
+  {
+    "i": 62,
+    "addr": "0x95C7",
+    "en": "A PURPLE MUSHROOM",
+    "ko": "보라 버섯"
+  },
+  {
+    "i": 63,
+    "addr": "0x95D4",
+    "en": "A WHITE MUSHROOM",
+    "ko": "흰 버섯"
+  },
+  {
+    "i": 64,
+    "addr": "0x95E1",
+    "en": "AN ELIXIR",
+    "ko": "영약"
+  },
+  {
+    "i": 65,
+    "addr": "0x95ED",
+    "en": "A CAKE",
+    "ko": "케이크"
+  },
+  {
+    "i": 66,
+    "addr": "0x95F9",
+    "en": "THE QUEEN'S KEY",
+    "ko": "여왕의 열쇠"
+  },
+  {
+    "i": 67,
+    "addr": "0x9607",
+    "en": "COPYRIGHT (C) 1985\n WINDHAM CLASSICS\n ALL RIGHTS RESERVED",
+    "ko": ""
+  },
+  {
+    "i": 68,
+    "addr": "0x9644",
+    "en": "RUN, CLIMB, SWIM AND EVEN FLY WITH\n ALICE AS SHE EXPLORES WONDERLAND.",
+    "ko": "뛰고 타고 헤엄치고 날며\n앨리스와 이상한 나라를 탐험하라."
+  },
+  {
+    "i": 69,
+    "addr": "0x9676",
+    "en": "THERE ARE WHIMSICAL TREASURES TO BE\n WON AND NONSENSICAL SONGS TO BE SUNG.",
+    "ko": "기발한 보물도 얻고\n말도 안 되는 노래도 부르자."
+  },
+  {
+    "i": 70,
+    "addr": "0x96A8",
+    "en": "YOU MUST DEAL WITH THE AMUSING\n CREATURES THERE. ARGUE WITH THE\n QUEEN OF HEARTS -- IF YOU DARE.",
+    "ko": "재미있는 생물들과 상대하라.\n하트 여왕과 말다툼도\n--감히 한다면."
+  },
+  {
+    "i": 71,
+    "addr": "0x96ED",
+    "en": "HOWEVER, YOU MUST HELP ALICE ESCAPE\nFROM WONDERLAND BEFORE IT IS TOO LATE.",
+    "ko": "늦기 전에 앨리스를\n이상한 나라에서 탈출시켜라."
+  },
+  {
+    "i": 72,
+    "addr": "0x971F",
+    "en": "OH DEAR, I HEAR THE RED KING YAWNING.\nHE MUST BE AWAKE. WHAT A SHAME THAT\nYOU'VE RUN OUT OF TIME. WE HAD SUCH\nWONDERFUL SURPRISES PREPARED FOR YOU.",
+    "ko": "이런, 붉은 왕이 하품한다.\n깨어난 게 분명하다.\n시간이 다 떨어졌구나.\n멋진 선물을 준비했는데."
+  },
+  {
+    "i": 73,
+    "addr": "0x977F",
+    "en": "YOU WORKED OUT ALL THE CLUES AND\nHELPED ALICE BECOME QUEEN AND REACH\nHER HOME. THREE CHEERS FOR A\nWONDERFUL WONDERLAND PLAYER!",
+    "ko": "모든 단서를 풀고 앨리스를\n여왕으로 만들어 집에 보냈다.\n멋진 이상한 나라 선수에게\n만세삼창!"
+  },
+  {
+    "i": 74,
+    "addr": "0x97D1",
+    "en": "YOU MADE IT IN LESS THAN 15 DAYS.\nI DUB THEE ROYAL GENIUS OF THE FIRST\nRANK. FIVE FILM PRODUCERS WANT TO DO\nYOUR LIFE STORY.",
+    "ko": "15일 안에 해냈다.\n1등급 왕실 천재로 봉하노라.\n영화 제작자 다섯이\n네 일대기를 찍고 싶다."
+  },
+  {
+    "i": 75,
+    "addr": "0x9822",
+    "en": "YOU ESCAPED IN LESS THAN 30 DAYS. YOU\nNOW BELONG TO THE ROYAL ORDER OF THE\nTOP HAT AND ARE A MASTER GUIDE.\nYOU'RE TOPS IN ANYONE'S BOOK.",
+    "ko": "30일 안에 탈출했다.\n실크햇 왕립 기사단의\n명안내자가 되었다.\n누구나 인정하는 최고다."
+  },
+  {
+    "i": 76,
+    "addr": "0x987C",
+    "en": "YOU GOT AWAY IN LESS THAN 50 DAYS.\nTHAT MAKES YOU AN EXPERT EXPLORER OF\nCURIOSITIES AND WONDERS. I HOPE YOU\nDON'T GET TIRED SIGNING AUTOGRAPHS.",
+    "ko": "50일 안에 빠져나왔다.\n기이함과 경이의\n탐험 전문가가 되었다.\n사인하느라 지치지 않길."
+  },
+  {
+    "i": 77,
+    "addr": "0x98DB",
+    "en": "I CAN'T QUITE MAKE IT OUT ...",
+    "ko": "잘 안 보이는데..."
+  },
+  {
+    "i": 78,
+    "addr": "0x98F0",
+    "en": "HEAR YE! HEAR YE! BY ORDER OF HER\nROYAL HIGHNESS, THE QUEEN OF HEARTS,\nDO NOT ENTER WITHOUT CANDY. THIS MEANS\nYOU!!!",
+    "ko": "들으라! 들으라!\n하트 여왕 전하 명령:\n사탕 없이 들어오지 마라.\n바로 너 말이다!!!"
+  },
+  {
+    "i": 79,
+    "addr": "0x9940",
+    "en": "IT IS AN EMBROIDERED SAMPLER THAT SAYS\n PUPPIES LIKE TO PLAY FETCH.",
+    "ko": "수놓은 자수인데\n강아지는 가져오기를 좋아한다."
+  },
+  {
+    "i": 80,
+    "addr": "0x996E",
+    "en": "IT IS A MAGNIFICENT BOOK. THE FIRST\nPAGE SAYS: BEWARE OF FALSE LOOKING\nGLASSES THAT LEAD TO DECEIT AND\nDANGER.",
+    "ko": "멋진 책이다. 첫장에:\n속임수와 위험으로 이끄는\n가짜 거울을 조심하라."
+  },
+  {
+    "i": 81,
+    "addr": "0x99B6",
+    "en": "IT IS A BRASS STEREOPTICON. THROUGH\nITS VIEWER, YOU SEE A THREE-\nDIMENSIONAL PICTURE OF A CHILD\nLISTENING TO A SEASHELL.",
+    "ko": "놋쇠 입체경이다.\n렌즈로 보니 아이가\n조개에 귀를 기울이는\n입체 그림이 보인다."
+  },
+  {
+    "i": 82,
+    "addr": "0x9A05",
+    "en": "COME TO THE CAUCUS!!! HEAR THE DODO\nSAY TWO CLEVER THINGS. ALSO MERMAIDS,\nFIREWALKERS, AND TAX REFUNDS.",
+    "ko": "코커스로 오라!!!\n도도가 영리한 말 둘.\n인어, 불 걷기, 세금 환급도."
+  },
+  {
+    "i": 83,
+    "addr": "0x9A4B",
+    "en": "IT IS AN ADVERTISEMENT THAT SAYS:\nDESPERATELY LOST, ONE MAGNIFICENT TEA\nCUP. MUNIFICENT REWARD. M. HATTER",
+    "ko": "광고다:\n멋진 찻잔 분실.\n후한 사례. 모자장수"
+  },
+  {
+    "i": 84,
+    "addr": "0x9A91",
+    "en": "THE CHEST IS FILLED WITH SOMEONE'S\nPRIZE-WINNING DRIED FUNGUS. THE FUNGUS\nCRUMBLES TO DUST WHEN YOU TOUCH IT.",
+    "ko": "상자엔 누군가의\n수상한 마른 곰팡이.\n만지면 가루가 된다."
+  },
+  {
+    "i": 85,
+    "addr": "0x9AD8",
+    "en": "FOR RENT\nPICTURESQUE RUINS OF LUTWIDGE'S\nFOLLY. OFFERED BY CECIL SAX REALTY,\nEXCLUSIVE BROKER FOR WONDERLAND.",
+    "ko": "임대\n러트위지 바보성의 그림 같은 폐허.\n세실 색스 부동산.\n이상한 나라 전속 중개."
+  },
+  {
+    "i": 86,
+    "addr": "0x9B20",
+    "en": "A FRESHLY PAINTED SIGN READS:\nPRIVATE PROPERTY. TRESPASSERS WILL BE\nBRONZED! CRICKET BAT WILL BE ACCEPTED\nAS PROOF THAT YOU ARE A STUDENT",
+    "ko": "새로 칠한 팻말:\n사유지. 침입자는 청동!\n방망이면 학생 증명으로\n인정한다"
+  },
+  {
+    "i": 87,
+    "addr": "0x9B7A",
+    "en": "IT IS A FULL-COLOR POSTER WITH THE\nWORDS: 'SEE THE MUSEUM DISPLAYS.\nA. FERRET, CURATOR.'",
+    "ko": "컬러 포스터다:\n'박물관 전시를 보라.\n페릿 관장.'"
+  },
+  {
+    "i": 88,
+    "addr": "0x9BB7",
+    "en": "IT IS THE UPPER HALF OF A PANTOMIME\nHORSE THAT IS A LITTLE WORSE FOR\nTHE WEAR.",
+    "ko": "판토마임 말의 윗부분.\n좀 낡은 상태다."
+  },
+  {
+    "i": 89,
+    "addr": "0x9BEA",
+    "en": "IT IS A MARZIPAN DREADNOUGHT THAT\nSEEMS TO HAVE MELTED AND STUCK.",
+    "ko": "마르지판 전함인데\n녹아 붙어 있는 것 같다."
+  },
+  {
+    "i": 90,
+    "addr": "0x9C24",
+    "en": "THE JAR IS FILLED WITH PENGUIN\nFEATHERS.",
+    "ko": "항아리에 펭귄 깃털이\n가득하다."
+  },
+  {
+    "i": 91,
+    "addr": "0x9C53",
+    "en": "IT IS A BRONZED VOLE WITH THE\nINSCRIPTION: 'HE TRESPASSED.'",
+    "ko": "청동 들쥐다.\n글귀: '침입자.'"
+  },
+  {
+    "i": 92,
+    "addr": "0x9C82",
+    "en": "TAKE THIS CAMPAIGN SOUVENIR.",
+    "ko": "이 선거 기념품을 받으렴."
+  },
+  {
+    "i": 93,
+    "addr": "0x9C96",
+    "en": "I FEEL SO HAPPY I WANT TO SING!",
+    "ko": "너무 기뻐 노래하고 싶어!"
+  },
+  {
+    "i": 94,
+    "addr": "0x9CAC",
+    "en": "THANK YOU. ANYTHING ELSE?",
+    "ko": "고마워. 더 필요한 거 있어?"
+  },
+  {
+    "i": 95,
+    "addr": "0x9CC0",
+    "en": "NOW I CAN MAKE TEA FOR THE MAD HATTER.\nI'M OFF TO THE MUSEUM. TA, TA.",
+    "ko": "이제 모자장수에게\n차를 끓일 수 있어.\n박물관에 간다. 안녕."
+  },
+  {
+    "i": 96,
+    "addr": "0x9CEF",
+    "en": "HERE'S YOUR REWARD.",
+    "ko": "여기 보상이야."
+  },
+  {
+    "i": 97,
+    "addr": "0x9CFE",
+    "en": "IF THOSE NASTY FERRETS TAKE IT, YOU\nMIGHT BE ABLE TO FIND IT IN THE\nBANK.",
+    "ko": "못된 페릿들이 가져가면\n은행에서 찾을지도 몰라."
+  },
+  {
+    "i": 98,
+    "addr": "0x9D47",
+    "en": "I HAVE A NEW RIDDLE FOR YOU ...",
+    "ko": "새 수수께끼가 있어..."
+  },
+  {
+    "i": 99,
+    "addr": "0x9D5C",
+    "en": "YOU MIGHT WANT TO MEET THE MOCK\nTURTLE. HE'S VERY MUSICAL.",
+    "ko": "가짜 거북을 만나봐.\n아주 음악적이야."
+  },
+  {
+    "i": 100,
+    "addr": "0x9D84",
+    "en": "I DON'T HAVE TIME FOR THAT. HERE. \nTAKE THIS MEMO ON THE NEED FOR\nAPPOINTMENTS.",
+    "ko": "그럴 시간 없어.자.\n약속 필요성에 대한\n이 메모를 받으렴."
+  },
+  {
+    "i": 101,
+    "addr": "0x9DBE",
+    "en": "YOU CAN BECOME A QUEEN IF YOU GO\nTHROUGH THE TRUE LOOKING GLASS.",
+    "ko": "진짜 거울을 지나면\n여왕이 될 수 있어."
+  },
+  {
+    "i": 102,
+    "addr": "0x9DED",
+    "en": "WELL, IF YOU REALLY CAME JUST TO BE AN\nAUDIENCE, I'LL CONTINUE SINGING.",
+    "ko": "청중으로 온 거라면\n노래를 계속할게."
+  },
+  {
+    "i": 103,
+    "addr": "0x9E1D",
+    "en": "OF COURSE, I KNOW HOW TO MAKE SOUNDS\nOTHER THAN SNORING. I KNOW A LULLABY.",
+    "ko": "코골이 말고 다른 소리도\n알지. 자장가가 있어."
+  },
+  {
+    "i": 104,
+    "addr": "0x9E59",
+    "en": "THERE'S NO ROOM IN A HEART THAT'S\nBROKEN. BUT HERE'S A TOKEN OF A LOVE\nBESPOKEN. HAPPY UNBIRTHDAY!",
+    "ko": "깨진 마음에 자리가 없어.\n하지만 사랑의 증표야.\n언생일 축하해!"
+  },
+  {
+    "i": 105,
+    "addr": "0x9EC4",
+    "en": "CRINKLE, CRINKLE",
+    "ko": "바스락, 바스락"
+  },
+  {
+    "i": 106,
+    "addr": "0x9ED3",
+    "en": "SHUT YOUR BEAKS!",
+    "ko": "부리 닫아!"
+  },
+  {
+    "i": 107,
+    "addr": "0x9EE2",
+    "en": "MUNCH, MUNCH, MUNCH",
+    "ko": "우적, 우적, 우적"
+  },
+  {
+    "i": 108,
+    "addr": "0x9EF2",
+    "en": "FAREWELL, MUTTON!",
+    "ko": "잘 가, 양고기!"
+  },
+  {
+    "i": 109,
+    "addr": "0x9F02",
+    "en": "GOD SAVE QUEEN ALICE!",
+    "ko": "앨리스 여왕 만세!"
+  },
+  {
+    "i": 110,
+    "addr": "0x9F11",
+    "en": "CRINKLE, CRINKLE, LITTLE HAT.\nI DON'T HAVE ONE QUITE LIKE THAT.\nLOTS OF POINTS IT'S GOT SO HIGH\nLIKE A HEDGEHOG IN THE SKY.",
+    "ko": "바스락 바스락 작은 모자.\n그런 모자는 없단다.\n하늘 고슴도치 같아."
+  },
+  {
+    "i": 111,
+    "addr": "0x9F62",
+    "en": "SHUT YOUR BEAKS! SHUT YOUR BEAKS!\nYOU'LL HAVE JOBS WITHIN FOUR WEEKS.\nWHISK, WHISK, BRISKLY WHISK.\nYOU'LL BE DUSTERS WITHOUT MUCH RISK.",
+    "ko": "부리 닫아! 부리 닫아!\n곧 일자리 생긴다.\n털털, 빨리 털어라.\n먼지떨이도 괜찮아."
+  },
+  {
+    "i": 112,
+    "addr": "0x9FBD",
+    "en": "MUNCH, MUNCH, MUNCH\nTHE SHEEP ARE EATING\nGRASSY MEADOWS FAR AND WIDE.",
+    "ko": "우적, 우적, 우적\n양들이 풀을 뜯는다\n넓은 풀밭 여기저기."
+  },
+  {
+    "i": 113,
+    "addr": "0x9FEB",
+    "en": "FAREWELL, MUTTON!\nFARE WELL, LAMB CHOPS!\nHELLO, SALADS!\nI'M A VEGETARIAN NOW.",
+    "ko": "잘 가, 양고기!\n잘 가, 양갈비!\n안녕, 샐러드!\n이젠 채식주의자야."
+  },
+  {
+    "i": 114,
+    "addr": "0xA022",
+    "en": "COME ON AND GIVE A CHEER.\nQUEEN ALICE IS FINALLY HERE.\nNOW WE CAN SIT!",
+    "ko": "자, 함성 지르자.\n앨리스 여왕이 왔다.\n이제 앉자!"
+  },
+  {
+    "i": 115,
+    "addr": "0xA051",
+    "en": "SURELY YOU JEST.",
+    "ko": "농담이겠지."
+  },
+  {
+    "i": 116,
+    "addr": "0xA05D",
+    "en": "WHAT? ARE YOU TRYING TO BRIBE ME?",
+    "ko": "뭐? 날매수하려고?"
+  },
+  {
+    "i": 117,
+    "addr": "0xA075",
+    "en": "WE HAVE LAWS AGAINST BRIBERY, YOU KNOW.",
+    "ko": "뇌물은법으로금지야."
+  },
+  {
+    "i": 118,
+    "addr": "0xA0A8",
+    "en": "IT'S NOT IN MY CONTRACT TO TALK THIS\nLONG. TALK TO ME LATER.",
+    "ko": "이렇게오래말하는건\n계약에없어. 나중에."
+  },
+  {
+    "i": 119,
+    "addr": "0xA0D1",
+    "en": "MY BRAIN IS OVERHEATING. LET'S MEET\nSOME OTHER TIME.",
+    "ko": "머리가과열됐어.\n다음에만나자."
+  },
+  {
+    "i": 120,
+    "addr": "0xA0F5",
+    "en": "LET'S TALK LATER AFTER I'VE HAD A\nLITTLE SNACK.",
+    "ko": "간식먹고나서\n이야기하자."
+  },
+  {
+    "i": 121,
+    "addr": "0xA116",
+    "en": "I'LL BE BACK AT",
+    "ko": "돌아올시간은"
+  },
+  {
+    "i": 122,
+    "addr": "0xA122",
+    "en": "ONE O'CLOCK.",
+    "ko": "한시."
+  },
+  {
+    "i": 123,
+    "addr": "0xA12C",
+    "en": "TWO O'CLOCK.",
+    "ko": "두시."
+  },
+  {
+    "i": 124,
+    "addr": "0xA136",
+    "en": "THREE O'CLOCK.",
+    "ko": "세시."
+  },
+  {
+    "i": 125,
+    "addr": "0xA141",
+    "en": "FOUR O'CLOCK.",
+    "ko": "네시."
+  },
+  {
+    "i": 126,
+    "addr": "0xA14C",
+    "en": "FIVE O'CLOCK.",
+    "ko": "다섯시."
+  },
+  {
+    "i": 127,
+    "addr": "0xA157",
+    "en": "SIX O'CLOCK.",
+    "ko": "여섯시."
+  },
+  {
+    "i": 128,
+    "addr": "0xA161",
+    "en": "SEVEN O'CLOCK.",
+    "ko": "일곱시."
+  },
+  {
+    "i": 129,
+    "addr": "0xA16C",
+    "en": "EIGHT O'CLOCK.",
+    "ko": "여덟시."
+  },
+  {
+    "i": 130,
+    "addr": "0xA177",
+    "en": "NINE O'CLOCK.",
+    "ko": "아홉시."
+  },
+  {
+    "i": 131,
+    "addr": "0xA182",
+    "en": "TEN O'CLOCK.",
+    "ko": "열시."
+  },
+  {
+    "i": 132,
+    "addr": "0xA18C",
+    "en": "ELEVEN O'CLOCK.",
+    "ko": "열한시."
+  },
+  {
+    "i": 133,
+    "addr": "0xA198",
+    "en": "TWELVE O'CLOCK.",
+    "ko": "열두시."
+  },
+  {
+    "i": 134,
+    "addr": "0xA1A9",
+    "en": "THERE IS A POLITE SNIFF BUT NO REAL\nINTEREST.",
+    "ko": "공손한킁킁소리만.\n관심은없다."
+  },
+  {
+    "i": 135,
+    "addr": "0xA1C7",
+    "en": "SURELY YOU CAN DO BETTER THAN THAT.",
+    "ko": "그보단잘할수있지."
+  },
+  {
+    "i": 136,
+    "addr": "0xA1DF",
+    "en": "DON'T BEAT ME. I'VE TRIED BUT THERE'S\nNOTHING TO TAKE.",
+    "ko": "때리지마. 해봤지만\n가져갈게없어."
+  },
+  {
+    "i": 137,
+    "addr": "0xA205",
+    "en": "DON'T PLAY TRICKS ON ME. THERE'S\nNOTHING TO TAKE.",
+    "ko": "장난치지마.\n가져갈게없어."
+  },
+  {
+    "i": 138,
+    "addr": "0xA228",
+    "en": "MY, WE'RE A REGULAR LITTLE PACK RAT,\nBUT YOU CAN'T TAKE THAT.",
+    "ko": "이런수집가야.\n하지만그건못가져가."
+  },
+  {
+    "i": 139,
+    "addr": "0xA253",
+    "en": "YOU'LL HAVE TO DO YOUR CHRISTMAS\nSHOPPING ELSEWHERE.",
+    "ko": "크리스마스쇼핑은\n다른데서해."
+  },
+  {
+    "i": 140,
+    "addr": "0xA276",
+    "en": "IF YOU LIKED THIS GAME, YOU'LL LOVE\n'BELOW THE ROOT.'",
+    "ko": "이게임이좋다면\n'뿌리아래'도좋아할걸."
+  },
+  {
+    "i": 141,
+    "addr": "0xA29C",
+    "en": "DEAR ALICE, PLEASE FIND THE MAD HATTER.\nDEAR ALICE, PLEASE GO RIGHT AWAY.\nDEAR ALICE, PLEASE FIND THE MAD HATTER.\nOR YOU'LL HAVE A VERY LONG DAY.",
+    "ko": "앨리스야모자장수를찾아.\n앨리스야지금바로가.\n앨리스야모자장수를찾아.\n안그러면긴하루가돼."
+  },
+  {
+    "i": 142,
+    "addr": "0xA2FB",
+    "en": "TRY SAYING THIS FAST THREE TIMES:\n'CECIL SAX SEA SHACKS BY THE SEASHORE.'",
+    "ko": "이걸세번빨리말해봐:\n'세실색스바닷가오두막.'"
+  },
+  {
+    "i": 143,
+    "addr": "0xA332",
+    "en": "WHEN I SING TO MYSELF, I PREFER TO WAIT\nUNTIL I'M IN THE BATHTUB.",
+    "ko": "혼잣노래는\n욕조에서하고싶어."
+  },
+  {
+    "i": 144,
+    "addr": "0xA35E",
+    "en": "WHY DON'T YOU WAIT UNTIL YOU HAVE AN\nAUDIENCE?",
+    "ko": "청중이올때까지\n기다리지그래?"
+  },
+  {
+    "i": 145,
+    "addr": "0xA37E",
+    "en": "YAWN. THEY JUST DON'T WRITE THEM LIKE\nTHEY USED TO.",
+    "ko": "하품. 예전만못하군."
+  },
+  {
+    "i": 146,
+    "addr": "0xA3A1",
+    "en": "DON'T LET WONDERLAND GET TO YOU.\nTHERE'S NO ONE TO TALK TO EXCEPT\nYOURSELF.",
+    "ko": "이상한나라에휩쓸리지마.\n말할상대는너뿐이야."
+  },
+  {
+    "i": 147,
+    "addr": "0xA3D3",
+    "en": "YOU'RE STARTING TO FIT RIGHT IN HERE\nBY TALKING TO YOURSELF.",
+    "ko": "혼잣말하니\n여기잘어울리네."
+  },
+  {
+    "i": 148,
+    "addr": "0xA3FB",
+    "en": "YOU'VE GOT BETTER EYES THAN I DO. I\nDON'T SEE ANYONE TO WHOM YOU CAN TALK.",
+    "ko": "네눈이더좋나봐.\n말할사람은안보여."
+  },
+  {
+    "i": 149,
+    "addr": "0xA433",
+    "en": "YOU SEE A STOUT STICK OF OAK WITH A\nGOLDEN DODO AT THE TOP.",
+    "ko": "꼭대기에금도도가있는\n튼튼한참나무막대다."
+  },
+  {
+    "i": 150,
+    "addr": "0xA45A",
+    "en": "IT IS AN UGLY BABY WITH A SKIN THAT IS\nAS WHITE AS THE BELLY OF A SLUG. IT\nALMOST HITS YOU WITH ITS RATTLE.",
+    "ko": "못난아기다. 피부는\n민달팽이배처럼하얗다.\n딸랑이로칠뻔했다."
+  },
+  {
+    "i": 151,
+    "addr": "0xA4A0",
+    "en": "IT IS A CYLINDRICAL RATTLE WITH\nPICTURES OF FUNNY SHEEP ON IT. THEY\nSEEM TO BE ROWING AND PLAYING CROQUET.",
+    "ko": "원통형딸랑이다.\n우스운양그림이있고\n노젓기와크로케를한다."
+  },
+  {
+    "i": 152,
+    "addr": "0xA4E5",
+    "en": "IT IS A MUFFIN SO OLD THAT IT IS\nFOSSILIZED. ATTACHED TO IT IS A\nNUMBERED TAG FROM THE SCIENCE MUSEUM.",
+    "ko": "너무오래된머핀이라\n화석이다. 과학박물관\n번호표가붙어있다."
+  },
+  {
+    "i": 153,
+    "addr": "0xA527",
+    "en": "THE MEMO SAYS: 'IMPATIENT PEOPLE NOT\nONLY LOSE THEIR TEMPERS BUT THEIR HEADS\nAS WELL. MAKE AN APPOINTMENT! AND I\nMEAN IT!' THE QUEEN OF HEARTS.",
+    "ko": "메모:'성급한사람은\n성질뿐아니라목도잃는다.\n약속을잡아라! 진심이다!'\n하트여왕."
+  },
+  {
+    "i": 154,
+    "addr": "0xA589",
+    "en": "IT IS A LONG HARE'S WHISKER THAT SEEMS\nCAPABLE OF STRETCHING INDEFINITELY.",
+    "ko": "끝없이늘어날듯한\n긴토끼수염이다."
+  },
+  {
+    "i": 155,
+    "addr": "0xA5BA",
+    "en": "IT IS A REGULATION CRICKET BAT WITH A\nHANDLE ENDING IN A WIDE, FLAT\nRECTANGULAR SURFACE.",
+    "ko": "정규방망이다.\n손잡이끝이넓고\n납작한직사각형이다."
+  },
+  {
+    "i": 156,
+    "addr": "0xA5F4",
+    "en": "IT IS A CAMEO BROOCH OF AN ABSENT-\nMINDED CUPID SHOOTING AN ARROW \nINTO A TREE.",
+    "ko": "카메오브로치다.\n덤벙대는큐피드가\n나무에활을쏜다."
+  },
+  {
+    "i": 157,
+    "addr": "0xA628",
+    "en": "IT IS A LARGE IVORY AND SILK FAN WITH A\nPICTURE OF PICNICKING RABBITS PAINTED\nON ITS SURFACE.",
+    "ko": "상아와비단큰부채.\n소풍가는토끼그림이\n그려져있다."
+  },
+  {
+    "i": 158,
+    "addr": "0xA664",
+    "en": "IT IS A DELICATE BREAD-AND-BUTTERFLY\nWITH WINGS THAT ARE THIN SLICES OF\nLIGHTLY BUTTERED BREAD.",
+    "ko": "연약한빵나비다.\n날개는버터바른\n얇은빵조각이다."
+  },
+  {
+    "i": 159,
+    "addr": "0xA6A3",
+    "en": "IT IS A WIDE CRAVAT OF SILK--OR IS IT A\nBELT? STILL, IT SEEMS VERY ELASTIC AS\nYOU PULL AT IT.",
+    "ko": "넓은비단넥타이\n--아니면허리띠?\n당기면아주잘늘어난다."
+  },
+  {
+    "i": 160,
+    "addr": "0xA6E2",
+    "en": "YOU SEE A PAPER CROWN THAT FITS AROUND\nJOINTS OF MUTTON. IT'S A LITTLE GREASY\nWITH SPOTS OF CONGEALED GRAVY.",
+    "ko": "양고기관절에맞는\n종이왕관이다.\n기름지고국물얼룩이있다."
+  },
+  {
+    "i": 161,
+    "addr": "0xA729",
+    "en": "YOU SEE A LARGE SEASHELL RATHER LIKE A\nWHELK.",
+    "ko": "큰고둥같은조개다."
+  },
+  {
+    "i": 162,
+    "addr": "0xA747",
+    "en": "IT IS A LARGE IRON SKELETON KEY.",
+    "ko": "큰철제해골열쇠다."
+  },
+  {
+    "i": 163,
+    "addr": "0xA75D",
+    "en": "IT IS A JAR OF MARMALADE COVERED WITH\nSMALL PAW PRINTS.",
+    "ko": "작은발자국이묻은\n마멀레이드병이다."
+  },
+  {
+    "i": 164,
+    "addr": "0xA781",
+    "en": "IT IS A TOP HAT MADE FROM A BEAVER\nPELT.",
+    "ko": "비버가죽실크햇이다."
+  },
+  {
+    "i": 165,
+    "addr": "0xA79C",
+    "en": "IT IS A DARLING BLUE SILK PARASOL.",
+    "ko": "귀여운파란비단양산이다."
+  },
+  {
+    "i": 166,
+    "addr": "0xA7B3",
+    "en": "IT IS A LITTLE TIN FILLED WITH DRIED\nFRUITS COATED IN SUGAR.",
+    "ko": "설탕입힌건과일이\n든작은통이다."
+  },
+  {
+    "i": 167,
+    "addr": "0xA7DB",
+    "en": "IT IS A LARGE BLUE TEACUP WITH A\nPICTURE OF BRIDGES AND WILLOW TREES\nON THE SIDES.",
+    "ko": "큰파란찻잔이다.\n다리와버드나무가\n그려져있다."
+  },
+  {
+    "i": 168,
+    "addr": "0xA810",
+    "en": "KT IS A LARGE CHINA TEAPOT STAINED FROM\nYEARS OF USE.",
+    "ko": "오래써서얼룩진\n큰도자기찻주전자다."
+  },
+  {
+    "i": 169,
+    "addr": "0xA833",
+    "en": "THEY ARE FUNNY-SHAPED, STRONG-SMELLING\nPURPLE MUSHROOMS RATHER LIKE THE ONES\nCOOK USES IN STEWS.",
+    "ko": "이상한모양의\n냄새강한보라버섯.\n요리사가스튜에쓰는것."
+  },
+  {
+    "i": 170,
+    "addr": "0xA873",
+    "en": "THEY ARE STRONG-SMELLING, FUNNY-SHAPED\nWHITE MUSHROOMS RATHER LIKE THE ONES\nCOOK USES IN STEWS.",
+    "ko": "냄새강하고이상한모양의\n흰버섯. 요리사가\n스튜에쓰는것과같다."
+  },
+  {
+    "i": 171,
+    "addr": "0xA8B3",
+    "en": "IT IS A BOTTLE OF ELIXER\nWITH THE WORDS 'DRINK ME' \nETCHED INTO THE SIDES.",
+    "ko": "영약병이다.\n옆면에'나를마시렴'\n새겨져있다."
+  },
+  {
+    "i": 172,
+    "addr": "0xA8E5",
+    "en": "IT IS A CUTE LITTLE SPONGE CAKE IN THE\nSHAPE OF A CLOVER-LEAF. THE ICING\nSAYS 'EAT ME'.",
+    "ko": "클로버잎모양의\n귀여운스펀지케이크.\n아이싱에'나를먹으렴'."
+  },
+  {
+    "i": 173,
+    "addr": "0xA921",
+    "en": "WHOM?",
+    "ko": "누구를?"
+  },
+  {
+    "i": 174,
+    "addr": "0xA931",
+    "en": "NO, DON'T BE SILLY. I'M MUCH TOO BUSY\nTO PLAY. I HAVE TO FIND THE RABBIT\nHOLE.",
+    "ko": "아니,바보같은소리.\n놀시간이없어.\n토끼굴을찾아야해."
+  },
+  {
+    "i": 175,
+    "addr": "0xA967",
+    "en": "WHAT AN UNPLEASANT CREATURE. I DO\nHOPE YOU'RE AN ONLY CHILD.",
+    "ko": "불쾌한녀석이네.\n외동이길바란다."
+  },
+  {
+    "i": 176,
+    "addr": "0xA990",
+    "en": "THAT'S EASY FOR YOU TO SAY.",
+    "ko": "말하기는쉽지."
+  },
+  {
+    "i": 177,
+    "addr": "0xA9A4",
+    "en": "I'VE GOT PROBLEMS OF MY OWN.",
+    "ko": "나도내문제가있어."
+  },
+  {
+    "i": 178,
+    "addr": "0xA9B8",
+    "en": "YOU'D BE A BIG HELP IF YOU JUST GOT\nOUT OF MY WAY.",
+    "ko": "길만비켜주면\n큰도움이될텐데."
+  },
+  {
+    "i": 179,
+    "addr": "0xA9DA",
+    "en": "THE CATERPILLAR TOLD ME THAT YOU\nCAN'T TOP A TOP HAT WHEN IT COMES TO\nANSWERING RIDDLES OR TAKING VACATIONS.",
+    "ko": "애벌레가말하길\n수수께끼나휴가엔\n실크햇을능가못한다고."
+  },
+  {
+    "i": 180,
+    "addr": "0xAA20",
+    "en": "THE WHITE RABBIT, GENERAL FLUNKY TO\nHER HIGHNESS, THE QUEEN OF HEARTS.",
+    "ko": "흰토끼,하트여왕전하의\n총잡부."
+  },
+  {
+    "i": 181,
+    "addr": "0xAA4F",
+    "en": "THIS IS THE LAST TIME I EVER BORROW\nTHE MAD HATTER'S HAT TO FLY UP HERE.",
+    "ko": "여기날려고모자장수\n모자를빌린건이번이마지막."
+  },
+  {
+    "i": 182,
+    "addr": "0xAA7F",
+    "en": "WHAT DO YOU CARE? YOU'RE MUCH TOO BIG\nTO FIT IN THE RABBIT HOLE--UNLESS YOU\nSTOOP.",
+    "ko": "네가무슨상관이야?\n너무커서토끼굴에\n안들어가--숙이지않으면."
+  },
+  {
+    "i": 183,
+    "addr": "0xAAB7",
+    "en": "I DON'T HAVE TIME TO TELL A STORY\nTODAY; BUT YOU CAN FIND WONDERS OF\nYOUR OWN IF YOU LOOK HARD ENOUGH.",
+    "ko": "오늘은이야기할시간없어.\n잘찾아보면스스로\n경이를발견할수있어."
+  },
+  {
+    "i": 184,
+    "addr": "0xAAFA",
+    "en": "NO, OTHER PEOPLE KNOW ME AS LEWIS\nCARROLL; BUT I'M STILL YOUR OLD\nFRIEND, THE REVEREND DODGSON.",
+    "ko": "아니,사람들은나를\n루이스캐럴로알지만\n난네오랜친구도지슨목사야."
+  },
+  {
+    "i": 185,
+    "addr": "0xAB3A",
+    "en": "YOU'LL NEED YOUR PARASOL SOON. YOU\nNEVER KNOW WHEN YOU'LL FALL DOWN A\nRABBIT HOLE.",
+    "ko": "곧양산이필요할거야.\n토끼굴에언제떨어질지\n모르니까."
+  },
+  {
+    "i": 186,
+    "addr": "0xAB71",
+    "en": "DON'T BE CROSS, ALICE. YOUR SISTER\nWILL HAVE SWEETS AND MAYBE SOMETHING\nTO TELL YOU.",
+    "ko": "화내지마,앨리스.\n언니가과자와이야깃거리를\n가지고있을거야."
+  },
+  {
+    "i": 187,
+    "addr": "0xABA9",
+    "en": "I'M QUITE CAPABLE OF ROWING MYSELF.",
+    "ko": "난혼자서도잘저어."
+  },
+  {
+    "i": 188,
+    "addr": "0xABC2",
+    "en": "YOU'LL HAVE A STORY LATER. NOW TAKE\nYOUR PARASOL. IT MAY HELP BREAK A\nFALL.",
+    "ko": "이야기는나중에.\n양산을가져가.\n낙하를막아줄지도몰라."
+  },
+  {
+    "i": 189,
+    "addr": "0xABF5",
+    "en": "YOU WOUND ME, CHILD. I'M THE REVEREND\nDODGSON.",
+    "ko": "상처받는구나.\n난도지슨목사란다."
+  },
+  {
+    "i": 190,
+    "addr": "0xAC16",
+    "en": "IN MY STORY BOAT.",
+    "ko": "내이야기배에서."
+  },
+  {
+    "i": 191,
+    "addr": "0xAC23",
+    "en": "I LIKE ROWING. IT HELPS ME THINK OF\nSTORIES.",
+    "ko": "노젓기를좋아해.\n이야기생각이나니까."
+  },
+  {
+    "i": 192,
+    "addr": "0xAC41",
+    "en": "REMEMBER. THE MUTTON IS PLEASED. LE\nGIGOT EST CONTENT. GOOD. YOU MAY\nTAKE THE TIN OF CANDY AS A REWARD.",
+    "ko": "기억해. 양고기는 기쁘다.\n프랑스어로도 양고기는 기쁘다.\n좋아. 사탕통을 상으로 받으렴."
+  },
+  {
+    "i": 193,
+    "addr": "0xAC86",
+    "en": "NO, I DON'T KNOW THE FRENCH FOR 'HA,\nHA, HA'!",
+    "ko": "아니,'하하하'의\n프랑스어는몰라!"
+  },
+  {
+    "i": 194,
+    "addr": "0xACA9",
+    "en": "AREN'T YOU THE SWEET LITTLE THING?",
+    "ko": "참달콤한아이구나?"
+  },
+  {
+    "i": 195,
+    "addr": "0xACC1",
+    "en": "DON'T BE CROSS, DEAR. A LITTLE FRENCH\nIS ALWAYS USEFUL.",
+    "ko": "화내지마,얘야.\n프랑스어는늘유용해."
+  },
+  {
+    "i": 196,
+    "addr": "0xACE7",
+    "en": "IF YOU HAVEN'T SEEN HIM ALREADY, THAT\nNICE REVEREND DODGSON HAS YOUR\nPARASOL. HE'S IN HIS BOAT.",
+    "ko": "아직안봤다면\n착한도지슨목사가\n양산을가지고있어. 배에있어."
+  },
+  {
+    "i": 197,
+    "addr": "0xAD27",
+    "en": "I KNOW IT'S A NICE DAY, DEAR; BUT NO\nDAY IS TOO NICE TO LEARN A LITTLE\nFRENCH.",
+    "ko": "좋은날인줄알아.\n하지만프랑스어배우기엔\n너무좋은날은없어."
+  },
+  {
+    "i": 198,
+    "addr": "0xAD5C",
+    "en": "I'M YOUR BIG SISTER, YOU LITTLE GOOSE.",
+    "ko": "난네언니야,바보야."
+  },
+  {
+    "i": 199,
+    "addr": "0xAD77",
+    "en": "DON'T PLAY THE FOOL WITH ME, DEAR.\nYOU'RE BY THE THAMES RIVER.",
+    "ko": "바보짓하지마,얘야.\n템스강가야."
+  },
+  {
+    "i": 200,
+    "addr": "0xADA2",
+    "en": "I TEACH YOU FRENCH SO YOU'LL BE SMART.",
+    "ko": "똑똑해지라고프랑스어를가르쳐."
+  },
+  {
+    "i": 201,
+    "addr": "0xADBC",
+    "en": "YOU CAN'T GET AROUND ME THAT WAY.",
+    "ko": "그렇게는날못속여."
+  },
+  {
+    "i": 202,
+    "addr": "0xADD3",
+    "en": "YOU'LL ENJOY THE PANTRY MORE. THERE'S\nMARMALADE THERE.",
+    "ko": "식료창고가더좋을걸.\n마멀레이드가있어."
+  },
+  {
+    "i": 203,
+    "addr": "0xADF9",
+    "en": "THAT'S EASY ADVICE FOR YOU TO GIVE.\nYOU DON'T HAVE TO PLAY FOR THE QUEEN.",
+    "ko": "조언은쉽지.\n넌여왕을위해안치니까."
+  },
+  {
+    "i": 204,
+    "addr": "0xAE2A",
+    "en": "YOU LIKE TO BABBLE SO MUCH THAT YOU\nMUST HAVE BEEN BORN IN A BROOK.",
+    "ko": "너무재잘대니\n시냇물에서났나봐."
+  },
+  {
+    "i": 205,
+    "addr": "0xAE56",
+    "en": "I'VE DONE QUITE WELL WITHOUT YOU.",
+    "ko": "너없이도잘해왔어."
+  },
+  {
+    "i": 206,
+    "addr": "0xAE6D",
+    "en": "I HAVE TO WAIT FOR THE QUEEN TO COME\nTHROUGH THESE DOORS. ONLY SHE HAS THE\nKEY TO OPEN THEM.",
+    "ko": "여왕이이문으로\n오길기다려야해.\n열쇠는여왕만있어."
+  },
+  {
+    "i": 207,
+    "addr": "0xAEA9",
+    "en": "THE ROYAL MUSICIAN. I WELCOME THE\nQUEEN.",
+    "ko": "왕실음악가.\n여왕을맞이하지."
+  },
+  {
+    "i": 208,
+    "addr": "0xAEC5",
+    "en": "IN THE GRAND BALLROOM, OF COURSE.",
+    "ko": "대무도회장이지,물론."
+  },
+  {
+    "i": 209,
+    "addr": "0xAEDC",
+    "en": "TEA BREAK! TEA BREAK!",
+    "ko": "차시간! 차시간!"
+  },
+  {
+    "i": 210,
+    "addr": "0xAEED",
+    "en": "THERE'S NO USE DOING THAT.",
+    "ko": "그건소용없어."
+  },
+  {
+    "i": 211,
+    "addr": "0xAF00",
+    "en": "IT'S JUST THAT THERE ARE CAT HAIRS\nALL OVER YOUR DRESS.",
+    "ko": "옷에고양이털이\n온통묻어있어."
+  },
+  {
+    "i": 212,
+    "addr": "0xAF25",
+    "en": "AT LEAST, I DON'T STINK OF CAT.",
+    "ko": "적어도난고양이냄새는안나."
+  },
+  {
+    "i": 213,
+    "addr": "0xAF3C",
+    "en": "THAT'S KIND, BUT I'M REALLY FEELING A\nBIT PECKISH AND I LOST MY JAR OF\nMARMALADE.",
+    "ko": "친절하네. 근데배가고파.\n마멀레이드병을잃었어."
+  },
+  {
+    "i": 214,
+    "addr": "0xAF73",
+    "en": "I LIKE THAT. WHO CAME BARGING INTO\nWHOSE ROOM?",
+    "ko": "좋아. 누가누구방에\n들이닥친거야?"
+  },
+  {
+    "i": 215,
+    "addr": "0xAF93",
+    "en": "I AM A MOUSE WITH A SAD TALE!",
+    "ko": "슬픈꼬리이야기를가진쥐요!"
+  },
+  {
+    "i": 216,
+    "addr": "0xAFA8",
+    "en": "IN THE MUSIC ROOM. SOMETIMES THE\nMUSICIANS LEAVE CRUMBS.",
+    "ko": "음악실에서.\n가끔음악가가부스러기를남겨."
+  },
+  {
+    "i": 217,
+    "addr": "0xAFCE",
+    "en": "I'M HUNGRY.",
+    "ko": "배고파."
+  },
+  {
+    "i": 218,
+    "addr": "0xAFD8",
+    "en": "ZZZZZZZZZZ",
+    "ko": "쿨쿨쿨쿨"
+  },
+  {
+    "i": 219,
+    "addr": "0xAFE0",
+    "en": "I BELIEVE IN GOOD GOVERNMENT AND FULL\nEMPLOYMENT FOR DODOS.",
+    "ko": "좋은정부와도도의\n완전고용을믿어."
+  },
+  {
+    "i": 220,
+    "addr": "0xB007",
+    "en": "THEN VOTE FOR THE LORY, BUT YOU'LL BE\nSORRY.",
+    "ko": "그럼로리에표를.\n후회할걸."
+  },
+  {
+    "i": 221,
+    "addr": "0xB026",
+    "en": "WHY? WE'RE ALL CREATURES IN THE RED\nKING'S DREAM. WHEN HE WAKES UP,\nWE'LL ALL DISAPPEAR. YES, EVEN YOU.",
+    "ko": "왜? 우린모두붉은왕의\n꿈속생물이야. 깨면\n다사라져. 너도그래."
+  },
+  {
+    "i": 222,
+    "addr": "0xB06E",
+    "en": "ACCORDING TO THE POLLS, FIFTY PER CENT\nTHINK THAT I AM NICE. I DON'T HAVE TO\nDO ANYTHING FOR YOU.",
+    "ko": "여론조사에절반이\n내가착하대.\n널위해뭘할필요없어."
+  },
+  {
+    "i": 223,
+    "addr": "0xB0AF",
+    "en": "HARUMPH. MY THROAT'S A BIT DRY. I\nCOULD USE SOMETHING SWEET TO SOOTHE\nIT.",
+    "ko": "흠. 목이좀말라.\n달콤한게필요해."
+  },
+  {
+    "i": 224,
+    "addr": "0xB0E1",
+    "en": "HOW RUDE!",
+    "ko": "무례하군!"
+  },
+  {
+    "i": 225,
+    "addr": "0xB0E9",
+    "en": "PLEASED TO MEET YOU. I'M HIS HONOR,\nTHE LORD HIGH MAYOR DODO.",
+    "ko": "만나서반가워.\n도도시장각하라네."
+  },
+  {
+    "i": 226,
+    "addr": "0xB113",
+    "en": "THAT'S A VERY GOOD QUESTION. I'LL\nGIVE IT TO A BLUE-RIBBON PANEL SO THEY\nCAN COME UP WITH AN ANSWER.",
+    "ko": "좋은질문이야.\n우수위원회에넘겨\n답을찾게하지."
+  },
+  {
+    "i": 227,
+    "addr": "0xB156",
+    "en": "I'M RUNNING FOR RE-ELECTION.",
+    "ko": "재선에출마중이야."
+  },
+  {
+    "i": 228,
+    "addr": "0xB16B",
+    "en": "DO KEEP A STIFF UPPER LIP. IT'S SO\nUNBRITISH TO WHINE.",
+    "ko": "입술굳게다물어.\n징징대는건영국답지않아."
+  },
+  {
+    "i": 229,
+    "addr": "0xB190",
+    "en": "MY HAIR IS YOUR HAIR SO IF IT'S A\nFRIGHT, IT'S YOUR FAULT.",
+    "ko": "내머리는네머리야.\n무섭다면네탓이지."
+  },
+  {
+    "i": 230,
+    "addr": "0xB1B8",
+    "en": "I'M WORRIED. WE'D BETTER GET OUT OF\nHERE. LET'S BORROW THE MAD HATTER'S\nHAT LIKE THE WHITE RABBIT DID.",
+    "ko": "걱정돼. 여길나가야해.\n흰토끼처럼모자장수\n모자를빌리자."
+  },
+  {
+    "i": 231,
+    "addr": "0xB1FE",
+    "en": "ALICE! YOU'RE NOT SUPPOSED TO USE\nWORDS LIKE THAT.",
+    "ko": "앨리스! 그런말은\n하면안돼."
+  },
+  {
+    "i": 232,
+    "addr": "0xB221",
+    "en": "YOU HEARD THE DODO. WE CAN'T\nDILLYDALLY.",
+    "ko": "도도말들었지.\n꾸물거릴수없어."
+  },
+  {
+    "i": 233,
+    "addr": "0xB23D",
+    "en": "THE BRIGHTER ALICE.",
+    "ko": "더똑똑한앨리스."
+  },
+  {
+    "i": 234,
+    "addr": "0xB24B",
+    "en": "A LONG WAY FROM HOME.",
+    "ko": "집에서멀리."
+  },
+  {
+    "i": 235,
+    "addr": "0xB25A",
+    "en": "ONE OF US HAS TO GET US HOME.",
+    "ko": "누가우리를집에데려가야해."
+  },
+  {
+    "i": 236,
+    "addr": "0xB26E",
+    "en": "YOU SHOULD HELP ME. I SHOULDN'T HAVE\nTO HELP YOU.",
+    "ko": "네가날도와야지.\n내가널도울필요는없어."
+  },
+  {
+    "i": 237,
+    "addr": "0xB290",
+    "en": "IS IT REALLY THAT TIME? THE QUEEN'S\nGOING TO HAVE MY HEAD.",
+    "ko": "벌써그시간이야?\n여왕이내목을칠거야."
+  },
+  {
+    "i": 238,
+    "addr": "0xB2B8",
+    "en": "WHAT WOULD A CHILD LIKE YOU KNOW ABOUT\nTHE SUBJECT?",
+    "ko": "네가그주제를\n뭘안다는거니?"
+  },
+  {
+    "i": 239,
+    "addr": "0xB2DA",
+    "en": "IS THIS SOME JOKE? YOU LOOK LIKE MY\nMAID.",
+    "ko": "농담이야? 내하녀처럼\n생겼는데."
+  },
+  {
+    "i": 240,
+    "addr": "0xB2F7",
+    "en": "AND I SHALL WANT THE TEACUP TOO. THE\nMAD HATTER MAY BE THERE AND I CAN\nRETURN IT THEN.",
+    "ko": "찻잔도필요해.\n모자장수가있을테니\n그때돌려주지."
+  },
+  {
+    "i": 241,
+    "addr": "0xB32F",
+    "en": "IS YOUR UNION PUTTING YOU UP TO THIS?",
+    "ko": "노조가시킨거야?"
+  },
+  {
+    "i": 242,
+    "addr": "0xB348",
+    "en": "YOUR EMPLOYER. HAVE YOU BEEN\nPRACTICING TUMBLING DOWN THE STAIRS\nAGAIN?",
+    "ko": "네고용주야.\n또계단굴러떨어지기\n연습했니?"
+  },
+  {
+    "i": 243,
+    "addr": "0xB377",
+    "en": "THAT'S RATHER OBVIOUS.",
+    "ko": "그건뻔하지."
+  },
+  {
+    "i": 244,
+    "addr": "0xB387",
+    "en": "I SHOULDN'T HAVE TO DO EVERYTHING\nMYSELF.",
+    "ko": "내가다할필요는없어."
+  },
+  {
+    "i": 245,
+    "addr": "0xB3A3",
+    "en": "I DON'T THINK YOU'RE PLAYING WITH A\nFULL DECK.",
+    "ko": "너카드한벌이\n안된것같아."
+  },
+  {
+    "i": 246,
+    "addr": "0xB3C3",
+    "en": "I JUST WANT TO BE ALONE.",
+    "ko": "그냥혼자있고싶어."
+  },
+  {
+    "i": 247,
+    "addr": "0xB3D4",
+    "en": "I DIDN'T TAKE THE TEACUP. IT'S IN THE\nFIREPLACE WHERE THE MAD HATTER LEFT\nIT.",
+    "ko": "찻잔은내가안가져갔어.\n모자장수가남긴\n벽난로에있어."
+  },
+  {
+    "i": 248,
+    "addr": "0xB408",
+    "en": "THAT'S NOT YOUR PLACE, MISS.",
+    "ko": "그건네자리가아니야,아가씨."
+  },
+  {
+    "i": 249,
+    "addr": "0xB41D",
+    "en": "I DON'T HAVE TIME. THE 'SIZE'\nMUSHROOMS KEEP GROWING BACK AFTER I\nPICK THEM.",
+    "ko": "시간없어. '크기'버섯이\n따도계속자라나."
+  },
+  {
+    "i": 250,
+    "addr": "0xB451",
+    "en": "MARY ANN, THE MAID.",
+    "ko": "메리앤,하녀."
+  },
+  {
+    "i": 251,
+    "addr": "0xB460",
+    "en": "I THOUGHT THE MASTER INVITED YOU. \nYOU'RE IN THE WHITE RABBIT'S HOUSE.",
+    "ko": "주인님이초대한줄알았어.\n흰토끼집이야."
+  },
+  {
+    "i": 252,
+    "addr": "0xB48F",
+    "en": "OUR POOR COW NEEDED NEW SHOES SO I HAD\nTO TAKE THIS JOB.",
+    "ko": "불쌍한소신발이사\n이일을맡았어."
+  },
+  {
+    "i": 253,
+    "addr": "0xB4B4",
+    "en": "LARCH! LARCH! LARCH!",
+    "ko": "낙엽송! 낙엽송! 낙엽송!"
+  },
+  {
+    "i": 254,
+    "addr": "0xB4C6",
+    "en": "AN UNEXAMINED LIFE IS A WASTED LIFE.",
+    "ko": "성찰없는삶은낭비다."
+  },
+  {
+    "i": 255,
+    "addr": "0xB4DF",
+    "en": "DON'T BE RIDICULOUS. THERE ARE ENOUGH\nPEOPLE WHO ALREADY ARE.",
+    "ko": "바보같은소리.\n이미그런사람충분히있어."
+  },
+  {
+    "i": 256,
+    "addr": "0xB508",
+    "en": "I DON'T KNOW WHY I WASTE MY TIME WITH\nYOU.",
+    "ko": "왜너한테시간낭비하는지몰라."
+  },
+  {
+    "i": 257,
+    "addr": "0xB525",
+    "en": "YOU SHOULDN'T DO THAT. IT COULD BE\nHABIT-FORMING.",
+    "ko": "그러면안돼.\n습관될수있어."
+  },
+  {
+    "i": 258,
+    "addr": "0xB548",
+    "en": "NO, NO, YOU SHOULD BE ASKING ABOUT THE\nMUSHROOMS. ONE COLOR MAKES YOU GROW\nBIG. THE OTHER MAKES YOU SMALL.",
+    "ko": "아니아니,버섯을물어봐.\n한쪽색은커지고\n다른색은작아져."
+  },
+  {
+    "i": 259,
+    "addr": "0xB58F",
+    "en": "LET ME CHECK MY REFERENCE BOOKS, BUT I\nTHINK I'M A CATERPILLAR.",
+    "ko": "참고서를확인해볼게.\n난애벌레인것같아."
+  },
+  {
+    "i": 260,
+    "addr": "0xB5BA",
+    "en": "YOU'RE AT THE INTELLECTUAL EQUIVALENT\nOF BUCKINGHAM PALACE.",
+    "ko": "지적으론버킹엄궁과\n같은곳이야."
+  },
+  {
+    "i": 261,
+    "addr": "0xB5E2",
+    "en": "I KEEP THINKING ABOUT THIS RIDDLE\nTHAT TELLS YOU",
+    "ko": "이수수께끼를생각중이야"
+  },
+  {
+    "i": 262,
+    "addr": "0xE300",
+    "en": "WHAT YOU NEED TO GET\nOUT OF WONDERLAND.",
+    "ko": "이상한 나라에서\n나가려면 필요한 것."
+  },
+  {
+    "i": 263,
+    "addr": "0xE31B",
+    "en": "THIS IS BEYOND ENDURANCE AND THAT'S\nALREADY FIVE MILES BEYOND WROXTON.",
+    "ko": "참을한계를넘었어.\n록스턴에서이미5마일넘어."
+  },
+  {
+    "i": 264,
+    "addr": "0xE349",
+    "en": "BEING ABSURD IS MY JOB.",
+    "ko": "터무니없는게내일이야."
+  },
+  {
+    "i": 265,
+    "addr": "0xE359",
+    "en": "YOU'RE NOT BAD FOR A SERPENT.",
+    "ko": "뱀치고는나쁘지않네."
+  },
+  {
+    "i": 266,
+    "addr": "0xE36E",
+    "en": "YOU NEEDN'T GET HUFFY WITH ME.",
+    "ko": "나한테화낼필요없어."
+  },
+  {
+    "i": 267,
+    "addr": "0xE383",
+    "en": "I'VE BEEN IN SUCH A TIZZY. IF ONLY\nSOMEONE WOULD SING TO MY BABIES TO\nMAKE THEM SLEEP.",
+    "ko": "너무정신이없어.\n누가아기들에게자장가를\n불러주면좋겠어."
+  },
+  {
+    "i": 268,
+    "addr": "0xE3BC",
+    "en": "IF YOU EAT EGGS, THEN YOU'RE A KIND OF\nSERPENT; AND THAT'S THAT.",
+    "ko": "달걀먹으면뱀의일종이야.\n그게다야."
+  },
+  {
+    "i": 269,
+    "addr": "0xE3E9",
+    "en": "DON'T PLAY DUMB. I KNOW THAT YOU\nKNOW THAT I'M A PIGEON.",
+    "ko": "모르는척하지마.\n내가비둘기인줄알잖아."
+  },
+  {
+    "i": 270,
+    "addr": "0xE410",
+    "en": "IT'D SERVE YOU RIGHT IF THE RED KING\nWOKE UP RIGHT NOW AND WE ALL\nDISAPPEARED.",
+    "ko": "지금붉은왕이깨면\n다사라져도싸지."
+  },
+  {
+    "i": 271,
+    "addr": "0xE443",
+    "en": "YOU CAN'T PASS ON A WORM CASSEROLE\nRECIPE UNLESS YOU HAVE CHILDREN.",
+    "ko": "아이가없으면\n지렁이스튜레시피는\n전할수없어."
+  },
+  {
+    "i": 272,
+    "addr": "0xE470",
+    "en": "SO YOU HELPED A LITTLE OLD TABBY\nACROSS THE STREET LAST WEEK. BIG\nDEAL.",
+    "ko": "지난주늙은얼룩고양이를\n길건너도왔다고?\n그게뭐대단해."
+  },
+  {
+    "i": 273,
+    "addr": "0xE49F",
+    "en": "IT'S EASIER TO TEASE HAIR THAN TO\nTEASE A CAT.",
+    "ko": "머리헝클기는쉬워도\n고양이놀리긴어려워."
+  },
+  {
+    "i": 274,
+    "addr": "0xE4BE",
+    "en": "HOW DROLL, BUT I AM NOT ANYONE'S\nLITTLE KITTY AND HAVE NOT BEEN FOR A\nNUMBER OF YEARS.",
+    "ko": "우습군. 난누구의\n아기고양이도아니고\n오래전부터그래."
+  },
+  {
+    "i": 275,
+    "addr": "0xE4F7",
+    "en": "I'D SAVE MY PITY FOR THE BABY THAT'S\nIN THAT DRAFTY OLD HOUSE. SOMEONE\nSHOULD HAVE TAKEN HIM AWAY A LONG TIME\nAGO.",
+    "ko": "연민은저낡은집\n아기에게써.\n진작데려갔어야했어."
+  },
+  {
+    "i": 276,
+    "addr": "0xE542",
+    "en": "DOESN'T YOUR TONGUE EVER GET TIRED?",
+    "ko": "혀가안지치니?"
+  },
+  {
+    "i": 277,
+    "addr": "0xE55B",
+    "en": "A GRIN WITH FUR OR FUR WITH A GRIN.",
+    "ko": "털난미소냐미소난털이냐."
+  },
+  {
+    "i": 278,
+    "addr": "0xE573",
+    "en": "IT'S MORE IMPORTANT TO KNOW THAT YOU\nCAN USE THE MARCH HARE'S WHISKER TO\nREACH THE BABY.",
+    "ko": "더중요한건3월토끼\n수염으로아기를\n닿을수있다는거야."
+  },
+  {
+    "i": 279,
+    "addr": "0xE5AD",
+    "en": "PEOPLE ARE SUCH AMUSING CREATURES. \nWHAT DID WE CATS EVER DO BEFORE THEY\nWERE INVENTED?",
+    "ko": "사람은참재미있는생물.\n발명되기전고양이는\n뭘했을까?"
+  },
+  {
+    "i": 280,
+    "addr": "0xE5E6",
+    "en": "I WOULDN'T WASTE ANY TIME. THE RED\nKING MIGHT WAKE AT ANY MOMENT.",
+    "ko": "시간낭비하지마.\n붉은왕은언제든깰수있어."
+  },
+  {
+    "i": 281,
+    "addr": "0xE612",
+    "en": "I KNOW THAT WE'RE BOTH TOO YOUNG TO BE\nMOTHERS; BUT A LIFE IS AT STAKE.",
+    "ko": "둘다엄마되기엔어려.\n하지만목숨이달렸어."
+  },
+  {
+    "i": 282,
+    "addr": "0xE642",
+    "en": "BUT I DON'T LIKE BEING PART OF A DREAM\nEVEN IF IT IS A KING'S.",
+    "ko": "왕의꿈이라도\n꿈속인건싫어."
+  },
+  {
+    "i": 283,
+    "addr": "0xE66C",
+    "en": "WELL, YOU HEARD THE CHESHIRE CAT.\nI'VE GOT THE FEELING WE'LL GET\nSOMETHING IMPORTANT IF WE RESCUE THE\nBABY.",
+    "ko": "체셔고양이말들었지.\n아기를구하면중요한걸\n얻을것같아."
+  },
+  {
+    "i": 284,
+    "addr": "0xE6B3",
+    "en": "I KNOW BABIES ARE A LOT OF TROUBLE;\nBUT WE CAN LEAVE IT ON THE REVEREND\nDODGSON'S DOORSTEP ONCE WE ESCAPE.",
+    "ko": "아기는힘들지만\n탈출하면도지슨목사\n문앞에두고가면돼."
+  },
+  {
+    "i": 285,
+    "addr": "0xE6F9",
+    "en": "YOU OUGHT TO KNOW BY NOW.",
+    "ko": "이제알만도하지."
+  },
+  {
+    "i": 286,
+    "addr": "0xE70B",
+    "en": "DON'T TRY TO CHANGE THE SUBJECT. IT'S\nALREADY CHANGED ITS OUTFIT FIVE TIMES\nTODAY.",
+    "ko": "화제바꾸지마.\n오늘이미다섯번\n옷을바꿨어."
+  },
+  {
+    "i": 287,
+    "addr": "0xE742",
+    "en": "YOU KNOW THE ANSWER TO THAT AS WELL AS\nI DO.",
+    "ko": "너도나만큼답을알아."
+  },
+  {
+    "i": 288,
+    "addr": "0xE760",
+    "en": "AND THE MORAL IS: THE LESS YOU HAVE\nTO SAY, THE LOUDER YOU SHOULD SAY IT.",
+    "ko": "교훈은:할말이적을수록\n더크게말하라."
+  },
+  {
+    "i": 289,
+    "addr": "0xE792",
+    "en": "NONE OF YOUR CHEEK.",
+    "ko": "건방지지마."
+  },
+  {
+    "i": 290,
+    "addr": "0xE7A0",
+    "en": "AND THE MORAL IS: NEVER SPARE THE\nPEPPER FROM THE SOUP NOR TEARS FROM\nTHE BABY.",
+    "ko": "교훈은:수프에후추와\n아기의눈물을아끼지마라."
+  },
+  {
+    "i": 291,
+    "addr": "0xE7D5",
+    "en": "IN MY DAY, CHILDREN HAD MANNERS!",
+    "ko": "내시절엔아이들에게예의가있었어!"
+  },
+  {
+    "i": 292,
+    "addr": "0xE7EC",
+    "en": "WHY, THANK YOU. AND THE MORAL IS:\nALWAYS KEEP YOUR HAIRS ON YOUR HEAD\nAND HARES IN YOUR STOVE.",
+    "ko": "고맙구나. 교훈은:\n머리는머리에두고\n토끼는난로에두어라."
+  },
+  {
+    "i": 293,
+    "addr": "0xE82B",
+    "en": "ANYONE CAN FIND A MORAL WHERE THERE IS\nONE. IT TAKES A TALENT TO FIND A\nMORAL WHERE THERE ISN'T ANY.",
+    "ko": "있는교훈찾긴쉽지.\n없는곳에서찾는게재능이지."
+  },
+  {
+    "i": 294,
+    "addr": "0xE86D",
+    "en": "HER GRACE, THE GRAND DUCHESS OF\nGODSTOW.",
+    "ko": "고드스토공작부인각하."
+  },
+  {
+    "i": 295,
+    "addr": "0xE889",
+    "en": "IN MY HOUSE, FROM THE LOOKS OF IT;\nTHOUGH IF IT'S YOURS, THEN IT'S A\nVERY NICE HOUSE INDEED.",
+    "ko": "내집인것같은데.\n네집이면참멋진집이야."
+  },
+  {
+    "i": 296,
+    "addr": "0xE8C8",
+    "en": "I'M WAITING FOR TWELVE O'CLOCK. THEN\nI CAN GO THROUGH THE TRUE LOOKING\nGLASS.",
+    "ko": "열두시를기다려.\n그때진짜거울을지나가지."
+  },
+  {
+    "i": 297,
+    "addr": "0xE8FC",
+    "en": "THERE'S NOTHING ELSE TO DO BUT SLEEP. \nTHE OTHER PARTY WAS CANCELLED ON\nACCOUNT OF SUNSHINE.",
+    "ko": "잠자는수밖에없어.\n다른파티는햇살때문에\n취소됐어."
+  },
+  {
+    "i": 298,
+    "addr": "0xE93D",
+    "en": "WHAT A CAPITAL IDEA! ZZZZZZZZZ.",
+    "ko": "멋진생각이야! 쿨쿨쿨."
+  },
+  {
+    "i": 299,
+    "addr": "0xE954",
+    "en": "I'D LIKE TO SEE YOU RUN AROUND ALL\nNIGHT AND STILL BE WIDE AWAKE IN THE\nAFTERNOON.",
+    "ko": "밤새뛰고오후에도\n깨어있는걸한번봐."
+  },
+  {
+    "i": 300,
+    "addr": "0xE98A",
+    "en": "THE DORMOUSE.",
+    "ko": "잠쥐."
+  },
+  {
+    "i": 301,
+    "addr": "0xE994",
+    "en": "WELL, IF YOU WERE ME, I'D SAY I WAS\nRIGHT BY ME. I THINK.",
+    "ko": "네가나라면내가내옆에\n있다고할까. 아마도."
+  },
+  {
+    "i": 302,
+    "addr": "0xE9BC",
+    "en": "I'M A NIGHT CREATURE AND PROUD OF IT.",
+    "ko": "밤생물인게자랑스러워."
+  },
+  {
+    "i": 303,
+    "addr": "0xE9D6",
+    "en": "NO, NO, NO. YOU CAN'T GO UNTIL YOU'VE\nSEEN THE QUEEN.",
+    "ko": "아니아니. 여왕을보기전엔\n못가."
+  },
+  {
+    "i": 304,
+    "addr": "0xE9FC",
+    "en": "THIS IS NO LAUGHING MATTER.",
+    "ko": "웃을일이아니야."
+  },
+  {
+    "i": 305,
+    "addr": "0xEA0F",
+    "en": "YOU WOULDN'T SAY THAT IF YOU KNEW THE\nSITUATION. HE'S RATHER SHY ABOUT\nINTRODUCTIONS.",
+    "ko": "사정을알면안그럴걸.\n소개를부끄러워해."
+  },
+  {
+    "i": 306,
+    "addr": "0xEA48",
+    "en": "DON'T GET UPSET. IT'LL MAKE ALL THE\nBLOOD RUSH TO YOUR NOSE AND SOMEONE\nMIGHT PLANT YOU AS A TOMATO BUSH.",
+    "ko": "화내지마. 코로피가몰려\n토마토덤불에심힐지도몰라."
+  },
+  {
+    "i": 307,
+    "addr": "0xEA8E",
+    "en": "NO, NO, WE HAVE TO FINISH THE TRIAL\nBEFORE THE RED KING WAKES UP.",
+    "ko": "아니,붉은왕이깨기전에\n재판을끝내야해."
+  },
+  {
+    "i": 308,
+    "addr": "0xEABA",
+    "en": "IN THE COURTROOM.",
+    "ko": "법정에서."
+  },
+  {
+    "i": 309,
+    "addr": "0xEAC7",
+    "en": "I CALL WITNESSES AND SEND EVILDOERS TO\nTHE QUEEN. SPEAK TO HER WITH YOUR\nKNEES BENT.",
+    "ko": "증인을부르고악인을\n여왕에게보내.\n무릎굽히고말해."
+  },
+  {
+    "i": 310,
+    "addr": "0xEAFE",
+    "en": "NO TIME TO TALK. I'M GOING TO THE\nOTHER TEA PARTY. IT'S ALL THE WAY\nOVER IN THE RABBIT HOLE.",
+    "ko": "말할시간없어.\n다른차모임에가.\n토끼굴저편이야."
+  },
+  {
+    "i": 311,
+    "addr": "0xEB3C",
+    "en": "THIS IS NEITHER THE TIME NOR THE PLACE\nFOR THAT.",
+    "ko": "지금여기선안돼."
+  },
+  {
+    "i": 312,
+    "addr": "0xEB5C",
+    "en": "BEFORE YOU CAN INSULT A CIVIL SERVANT,\nYOU MUST FILL OUT AN ABUSE FORM IN\nTRIPLICATE.",
+    "ko": "공무원을모욕하려면\n모욕서류를세장작성해야해."
+  },
+  {
+    "i": 313,
+    "addr": "0xEB94",
+    "en": "THAT'S OUT OF THE QUESTION UNTIL YOU\nSIT FOR THE CIVIL SERVICE EXAMS NEXT\nYEAR.",
+    "ko": "내년공무원시험전까지는\n어림없어."
+  },
+  {
+    "i": 314,
+    "addr": "0xEBC8",
+    "en": "I'M OFF TO THE MUSEUM. THE FERRETS\nPUT ON SUCH INTERESTING DISPLAYS.",
+    "ko": "박물관에가.\n페릿들전시가재미있어."
+  },
+  {
+    "i": 315,
+    "addr": "0xEBF5",
+    "en": "SENIOR CLERK. WE'LL HAVE OUR TITLES\nON OUR FOREHEAD NEXT MONTH.",
+    "ko": "선임서기.\n다음달이마에직함이생겨."
+  },
+  {
+    "i": 316,
+    "addr": "0xEC20",
+    "en": "THE TOWN HALL OF LESSER TEW.",
+    "ko": "레서튜시청."
+  },
+  {
+    "i": 317,
+    "addr": "0xEC34",
+    "en": "WHY ARE YOU WASTING MY TIME WITH\nQUESTIONS?",
+    "ko": "왜질문으로내시간을낭비해?"
+  },
+  {
+    "i": 318,
+    "addr": "0xEC56",
+    "en": "I CAN'T HELP IT IF I WAS DEMOTED FROM\nBEING A REAL TURTLE.",
+    "ko": "진짜거북에서강등된건\n내탓이아니야."
+  },
+  {
+    "i": 319,
+    "addr": "0xEC7D",
+    "en": "THE NEW STUDENTS GET STUPIDER EVERY\nYEAR.",
+    "ko": "신입생이해마다더멍청해져."
+  },
+  {
+    "i": 320,
+    "addr": "0xEC99",
+    "en": "I'M GOING TO COMPLAIN TO THE QUEEN\nABOUT YOU.",
+    "ko": "여왕에게너를고발할거야."
+  },
+  {
+    "i": 321,
+    "addr": "0xECB8",
+    "en": "THE MOCK TURTLE, BUT EVERYONE CALLS ME\n'MOX'.",
+    "ko": "가짜거북이지만다들\n'목스'라고부러."
+  },
+  {
+    "i": 322,
+    "addr": "0xECD8",
+    "en": "IN THE MUSIC ROOM. ARE YOU NEW HERE?",
+    "ko": "음악실이야. 여기신입이야?"
+  },
+  {
+    "i": 323,
+    "addr": "0xECF2",
+    "en": "I WANT TO SING FOR THE QUEEN. FLAT\nTUNES MAKE FOR LOST HEADS.",
+    "ko": "여왕에게노래하고싶어.\n음이탈하면목이날라가."
+  },
+  {
+    "i": 324,
+    "addr": "0xED1B",
+    "en": "WHEN I DRAW SPIDERS, THEN I DRAW\nSPIDERS. THIS HAPPENS TO BE A\nPORTRAIT OF A MELON. HIS NAME IS\nMELVIN.",
+    "ko": "거미를그리면거미야.\n이건멜론초상화야.\n이름은멜빈."
+  },
+  {
+    "i": 325,
+    "addr": "0xED5F",
+    "en": "IT'D BE NICE TO HAVE THREE\nOBJECTS THAT BEGIN WITH 'M'.",
+    "ko": "'엠'으로시작하는물건\n세개가있으면좋겠어."
+  },
+  {
+    "i": 326,
+    "addr": "0xED85",
+    "en": "ONLY A QUEEN MAY DO THAT.",
+    "ko": "여왕만할수있어."
+  },
+  {
+    "i": 327,
+    "addr": "0xED97",
+    "en": "LACIE, OFFICIAL ARTIST TO THE COURT.",
+    "ko": "레이시,궁정공식화가."
+  },
+  {
+    "i": 328,
+    "addr": "0xEDB0",
+    "en": "I'M TRYING TO FINISH SO THAT I CAN GO\nTO THE OTHER TEA PARTY IN THE RABBIT\nHOLE.",
+    "ko": "끝내고토끼굴의\n다른차모임에가려고해."
+  },
+  {
+    "i": 329,
+    "addr": "0xEDE5",
+    "en": "I LIKE MY HEAD AS IT IS. I DON'T NEED\nTO HAVE IT WAXED.",
+    "ko": "머리는이대로가좋아.\n밀납바를필요없어."
+  },
+  {
+    "i": 330,
+    "addr": "0xEE0B",
+    "en": "YOU CAN'T FOOL A FOOL.",
+    "ko": "바보는못속여."
+  },
+  {
+    "i": 331,
+    "addr": "0xEE1B",
+    "en": "IF YOU PLAYED SPORTS, YOU WOULDN'T\nHAVE SO MUCH TIME TO PESTER PEOPLE. \nHERE TAKE THIS CRICKET BAT.",
+    "ko": "운동하면남을괴롭힐\n시간이없겠지.\n자,이방망이를받아."
+  },
+  {
+    "i": 332,
+    "addr": "0xEE5C",
+    "en": "YOU'RE IMPOSSIBLE OR NEARLY SO. THAT\nMAKES YOU ILLEGAL IN SHREWSBURY.",
+    "ko": "넌불가능하거나거의그래.\n슈루즈베리에선불법이야."
+  },
+  {
+    "i": 333,
+    "addr": "0xEE8A",
+    "en": "I'VE BEEN A GRYPHON FOR ALL MY LIFE\nTHOUGH I'M OPEN TO OTHER EMPLOYMENT\nPOSSIBILITIES.",
+    "ko": "평생그리폰이었어.\n다른일자리도열려있어."
+  },
+  {
+    "i": 334,
+    "addr": "0xEEC3",
+    "en": "HOW DID YOU GET INTO THE MUSEUM?",
+    "ko": "박물관에어떻게들어왔어?"
+  },
+  {
+    "i": 335,
+    "addr": "0xEED9",
+    "en": "TODAY IS MY DAY TO DUST THE PICTURES\nAND TOMORROW IS MY TURN TO TAKE THE\nDUST OFF. WHAT FUN!",
+    "ko": "오늘은그림먼지를털고\n내일은먼지를빼는날.\n재미있지!"
+  },
+  {
+    "i": 336,
+    "addr": "0xEF16",
+    "en": "IF I WERE YOU, I'D GET A HEDGEHOG AND\nSTART BEING TERRIBLE. THE QUEEN HATES\nTO LOSE.",
+    "ko": "나라면고슴도치를구해\n형편없이쳐.\n여왕은지는걸싫어해."
+  },
+  {
+    "i": 337,
+    "addr": "0xEF4E",
+    "en": "NO, I DON'T WANT TO POSE FOR A\nMONUMENT OF THE UNKNOWN CROQUET\nPLAYER.",
+    "ko": "아니,무명크로케선수\n동상에포즈싫어요."
+  },
+  {
+    "i": 338,
+    "addr": "0xEF7D",
+    "en": "I DON'T HAVE ANY TEAPOTS TO OFFER THE\nQUEEN.",
+    "ko": "여왕에게줄찻주전자가없어."
+  },
+  {
+    "i": 339,
+    "addr": "0xEF9B",
+    "en": "OK, HOW WONDERFUL. I MISSED THE\nHEDGEHOG AGAIN.",
+    "ko": "좋아,멋지군.\n또고슴도치를놓쳤어."
+  },
+  {
+    "i": 340,
+    "addr": "0xEFBC",
+    "en": "FORE! WHOOPS, WRONG GAME.",
+    "ko": "포! 앗,다른게임이야."
+  },
+  {
+    "i": 341,
+    "addr": "0xEFD0",
+    "en": "I'VE JUST BEEN SHUFFLED AND DON'T KNOW\nWHERE ANYONE IS.",
+    "ko": "방금섞여서누가어디있는지몰라."
+  },
+  {
+    "i": 342,
+    "addr": "0xEFF6",
+    "en": "YOU'RE WILD ENOUGH TO BE A JOKER.",
+    "ko": "조커가될만큼사납구나."
+  },
+  {
+    "i": 343,
+    "addr": "0xF00D",
+    "en": "THIS IS A ROTTEN MALLET. IT'S LOSING\nALL ITS FEATHERS.",
+    "ko": "이방망이형편없어.\n깃털이다빠지네."
+  },
+  {
+    "i": 344,
+    "addr": "0xF032",
+    "en": "INSTEAD OF DOING THAT, I'D LOOK FOR\nTHE TRUE LOOKING GLASS--ESPECIALLY IF\nIT'S NEAR TWELVE.",
+    "ko": "그럴시간에진짜거울을찾아.\n열두시가가깝다면더."
+  },
+  {
+    "i": 345,
+    "addr": "0xF070",
+    "en": "THIS BIRD AND I GO A LONG WAYS BACK. \nIT'S BEEN FIVE MINUTES ALREADY.",
+    "ko": "이새와난오랜사이야.\n벌써5분이나됐지."
+  },
+  {
+    "i": 346,
+    "addr": "0xF09E",
+    "en": "YOU'RE BLOCKING MY HEDGEHOG.",
+    "ko": "내고슴도치를막고있어."
+  },
+  {
+    "i": 347,
+    "addr": "0xF0B2",
+    "en": "WE PLAY TO LOSE AND IT'S VERY HARD\nWITH THE QUEEN AS BAD A SHOT AS SHE\nIS.",
+    "ko": "일부러지는데여왕이\n너무못맞춰서힘들어."
+  },
+  {
+    "i": 348,
+    "addr": "0xF0E3",
+    "en": "I'D BE MORE WORRIED ABOUT GETTING A\nSONG FROM THE MOUSE.",
+    "ko": "쥐에게노래를받는게\n더걱정일걸."
+  },
+  {
+    "i": 349,
+    "addr": "0xF109",
+    "en": "YOU'RE OBVIOUSLY NOT A CAT PERSON.",
+    "ko": "넌고양이와안맞나봐."
+  },
+  {
+    "i": 350,
+    "addr": "0xF121",
+    "en": "MY, MY, MY; BUT PEOPLE DO MAKE THE\nMOST INTERESTING PETS.",
+    "ko": "아이고. 사람은참\n재미있는애완동물이야."
+  },
+  {
+    "i": 351,
+    "addr": "0xF149",
+    "en": "THE PERSON WHO KNOWS THAT YOU HAVE TO\nBE VERY, VERY LARGE TO REACH SOME\nTHINGS THAT ARE UP HIGH.",
+    "ko": "높은걸닿으려면\n아주아주커야한다는걸\n아는사람."
+  },
+  {
+    "i": 352,
+    "addr": "0xF188",
+    "en": "YOU WON'T BE GOING ANYWHERE UNLESS\nYOU'RE SMALL ENOUGH TO GET THROUGH THE\nSMALL DOORS.",
+    "ko": "작은문으로들어갈만큼\n작지않으면어디도못가."
+  },
+  {
+    "i": 353,
+    "addr": "0xF1C1",
+    "en": "TA, TA. I'LL SEE YOU WHEN YOU COME\nBACK FOR THE DORMOUSE'S TEA PARTY.",
+    "ko": "안녕. 잠쥐차모임에\n돌아올때보자."
+  },
+  {
+    "i": 354,
+    "addr": "0xF1F1",
+    "en": "THANK YOU. I'M RATHER FOND OF MY TAIL\nTOO. IN FACT, I'M ATTACHED TO IT. \nIT'D BE POLITE TO CHORTLE ABOUT NOW.",
+    "ko": "고마워. 꼬리도좋아해.\n사실붙어있거든.\n지금깔깔웃는게예절이야."
+  },
+  {
+    "i": 355,
+    "addr": "0xF23B",
+    "en": "I RATHER LIKE MY SMILE--AND I HAVE THE\nDENTAL BILLS TO PROVE IT.",
+    "ko": "미소가마음에들어.\n치과영수증이증명하지."
+  },
+  {
+    "i": 356,
+    "addr": "0xF266",
+    "en": "IT'S MORE RELAXING NOT TO HAVE TO\nTALK.",
+    "ko": "말안하는게더편해."
+  },
+  {
+    "i": 357,
+    "addr": "0xF281",
+    "en": "THE PIGEON IS EVEN MORE INFURIATING.\nBUT SHE DOES HAVE A LOOKING GLASS THAT\nYOU MIGHT WANT TO LOOK INTO.",
+    "ko": "비둘기가더짜증나.\n하지만거울이있으니\n들여다볼만해."
+  },
+  {
+    "i": 358,
+    "addr": "0xF2C4",
+    "en": "DON'T BE TEDIOUS.",
+    "ko": "지루하게굴지마."
+  },
+  {
+    "i": 359,
+    "addr": "0xF2D1",
+    "en": "I THINK YOU OUGHT TO BE MORE WORRIED\nABOUT HOW YOU'RE GOING TO FLY UP TO\nTHE TEA PARTY IN THE RABBIT HOLE.",
+    "ko": "토끼굴차모임까지\n어떻게날아갈지가\n더걱정일걸."
+  },
+  {
+    "i": 360,
+    "addr": "0xF316",
+    "en": "WHAT DOES IT LOOK LIKE?",
+    "ko": "어떻게생겼는데?"
+  },
+  {
+    "i": 361,
+    "addr": "0xF327",
+    "en": "WHY NOT?",
+    "ko": "왜안돼?"
+  },
+  {
+    "i": 362,
+    "addr": "0xF32E",
+    "en": "WHY LEAVE? IT'S NO DIFFERENT THAN OUT\nTHERE, YOU KNOW.",
+    "ko": "왜떠나? 밖이랑\n다르지않잖아."
+  },
+  {
+    "i": 363,
+    "addr": "0xF354",
+    "en": "HAVE YOU TAKEN LEAVE OF YOUR SENSES?\nOR DO YOU JUST HAVE A THREE-DAY PASS?",
+    "ko": "제정신이야?\n아니면3일외출증이야?"
+  },
+  {
+    "i": 364,
+    "addr": "0xF386",
+    "en": "YEOW! DON'T PET ME. HERE'S A CLUE IF\nYOU'LL JUST STAY AWAY. THE LOOKING\nGLASS ONLY WORKS AT TWELVE.",
+    "ko": "야옹! 쓰다듬지마.\n떨어져있으면힌트줄게.\n거울은열두시에만돼."
+  },
+  {
+    "i": 365,
+    "addr": "0xF3CA",
+    "en": "SAYING THAT YOU'LL BITE ME IS A\nTHREAT, NOT AN ARGUMENT.",
+    "ko": "문다고하는건협박이지\n논쟁이아니야."
+  },
+  {
+    "i": 366,
+    "addr": "0xF403",
+    "en": "WHO CARES? LITTLE GIRLS STAY IN\nWONDERLAND. QUEENS MAY GO WHERE THEY\nWANT--EVEN UP TO THE SURFACE.",
+    "ko": "상관없어. 소녀는\n이상한나라에남아.\n여왕은어디든가--지상까지."
+  },
+  {
+    "i": 367,
+    "addr": "0xF445",
+    "en": "MY, YOU'RE A CHATTY LITTLE THING. YOU\nMUST BE PART PARROT.",
+    "ko": "수다쟁이구나.\n앵무새피가섞였나봐."
+  },
+  {
+    "i": 368,
+    "addr": "0xF46D",
+    "en": "MOCK NOT, BLONDIE. \nFOR YOU HAVE FOUND ME.",
+    "ko": "조롱말렴,금발아.\n날찾았으니."
+  },
+  {
+    "i": 369,
+    "addr": "0xF48A",
+    "en": "I AM NOT SANE. \nSHE DID NOT REMAIN. \nO WOE! O WOE!",
+    "ko": "난제정신아니야.\n그이는남지않았어.\n오슬프도다!"
+  },
+  {
+    "i": 370,
+    "addr": "0xF4AD",
+    "en": "BE NOT STERN. \nWAIT YOUR TURN.",
+    "ko": "엄하지말렴.\n네차례를기다려."
+  },
+  {
+    "i": 371,
+    "addr": "0xF4C2",
+    "en": "SHED A TEAR. \nALICE IS HERE.",
+    "ko": "눈물흘려라.\n앨리스가왔다."
+  },
+  {
+    "i": 372,
+    "addr": "0xF4D6",
+    "en": "JUST STAND NEAR THE EDGE OF SOMETHING\nAND THROW IT.",
+    "ko": "무언가가장자리에서서\n던져라."
+  },
+  {
+    "i": 373,
+    "addr": "0xF4F8",
+    "en": "THE MARCH HARE\nWHO ONCE WAS FAIR.",
+    "ko": "3월토끼\n한때고왔지."
+  },
+  {
+    "i": 374,
+    "addr": "0xF50F",
+    "en": "IN MY HOUSE\nWITHOUT A SPOUSE.",
+    "ko": "내집에서\n배우자없이."
+  },
+  {
+    "i": 375,
+    "addr": "0xF523",
+    "en": "I HAVE THE TIME FOR RHYME\nBUT REASON IS TREASON.",
+    "ko": "운율시간은있어\n이성은반역이지."
+  },
+  {
+    "i": 376,
+    "addr": "0xF543",
+    "en": "OF COURSE, I CAN TALK. I'VE BEEN\nDOING IT ALL MY LIFE. BUT NOT NOW.",
+    "ko": "물론말할수있지.\n평생해왔어. 지금은아니야."
+  },
+  {
+    "i": 377,
+    "addr": "0xF571",
+    "en": "THAT SHOWS WHAT YOU KNOW. THE LARGER\nTHE CANVAS, THE BETTER IT IS.",
+    "ko": "네가뭘알아.\n캔버스클수록좋지."
+  },
+  {
+    "i": 378,
+    "addr": "0xF59E",
+    "en": "THE ONLY TIME I RELAX IS WHEN I VISIT\nTHE MAD HATTER BEHIND THE\nCHESSBOARD.",
+    "ko": "쉴때는체스판뒤\n모자장수를방문할때뿐."
+  },
+  {
+    "i": 379,
+    "addr": "0xF5CF",
+    "en": "MY, SUCH A TEMPER. YOU REALLY OUGHT\nTO SEND IT TO SCHOOL. JUST GO DOWN\nTHE TREACLE WELL.",
+    "ko": "성질한번대단하네.\n학교에보내야지.\n당밀우물로내려가."
+  },
+  {
+    "i": 380,
+    "addr": "0xF60A",
+    "en": "IF YOU DON'T HAVE A BRUSH, GET OUT OF\nTHE PAINTING ZONE.",
+    "ko": "붓없으면\n그림구역에서나가."
+  },
+  {
+    "i": 381,
+    "addr": "0xF630",
+    "en": "A FAMOUS ARTIST SOME DAY--MAYBE AS\nLONG AS TOMORROW.",
+    "ko": "언젠가유명화가\n--내일이면좋겠네."
+  },
+  {
+    "i": 382,
+    "addr": "0xF654",
+    "en": "LET'S SEE PETER RABBIT TOP THIS.",
+    "ko": "피터래빗이이걸넘어봐."
+  },
+  {
+    "i": 383,
+    "addr": "0xF66B",
+    "en": "SOMEHOW YOU'RE MUCH SMALLER THAN I\nIMAGINED. DID YOU SHRINK ON THE WAY\nHERE?",
+    "ko": "생각보다훨씬작구나.\n오는길에줄었니?"
+  },
+  {
+    "i": 384,
+    "addr": "0xF69E",
+    "en": "BUT YOU MUST BE THIRSTY IN THIS\nBEASTLY HEAT. I'LL BOIL SOME WATER\nFOR TEA.",
+    "ko": "이더위에목마르겠지.\n차물을끓여줄게."
+  },
+  {
+    "i": 385,
+    "addr": "0xF6D0",
+    "en": "THIS HAS TO BE AFRICA. IT'S CERTAINLY\nNOT CROYDON.",
+    "ko": "여긴아프리카야.\n크로이든은아니지."
+  },
+  {
+    "i": 386,
+    "addr": "0xF6F3",
+    "en": "FRANKLY, I'D PREFER A CUP OF TEA, BUT\nI LOST MY TEACUP.",
+    "ko": "솔직히차가좋지만\n찻잔을잃었어."
+  },
+  {
+    "i": 387,
+    "addr": "0xF719",
+    "en": "GOOD HEAVENS, STANLEY. YOU'RE\nDELIRIOUS. I'LL GO GET HELP AT ONCE.",
+    "ko": "세상에,스탠리.\n정신이없구나.\n당장도움을청할게."
+  },
+  {
+    "i": 388,
+    "addr": "0xF747",
+    "en": "DR. HATTER, INTREPID EXPLORER OF THE\nUNKNOWN--OR IS THAT THINGS THAT I\nDON'T KNOW?",
+    "ko": "해터박사,미지의\n대담한탐험가\n--모르는것의?"
+  },
+  {
+    "i": 389,
+    "addr": "0xF77F",
+    "en": "SOMEWHERE SOUTH OF LAKE\nTANGANYIKA--THOUGH IT LOOKS\nREMARKABLY LIKE MY LIVING ROOM.",
+    "ko": "탕가니카호수남쪽.\n그런데내거실과\n놀랍도록닮았군."
+  },
+  {
+    "i": 390,
+    "addr": "0xF7B6",
+    "en": "BECAUSE IT IS THERE! NOW IF I COULD\nJUST REMEMBER WHAT 'IT' IS. EXCUSE\nME.",
+    "ko": "거기있으니까! 이제\n'그것'이뭔지만기억하면.\n실례."
+  },
+  {
+    "i": 391,
+    "addr": "0xF7E9",
+    "en": "I KNOW YOU USED THE MARCH HARE'S\nWHISKER OVER AND OVER IN THE SAME ROOM\nWHERE THE THEFT OCCURRED.",
+    "ko": "3월토끼수염을\n도난이일어난그방에서\n자꾸썼다는걸알아."
+  },
+  {
+    "i": 392,
+    "addr": "0xF828",
+    "en": "HELP! I'M SURROUNDED BY A RISING SEA\nOF IMPERTINENCE.",
+    "ko": "도와줘! 무례의해가\n밀려온다."
+  },
+  {
+    "i": 393,
+    "addr": "0xF84D",
+    "en": "WHEN YOU MEET THE QUEEN OF HEARTS,\nYOU'LL BE IN THE LAP OF JUSTICE.",
+    "ko": "하트여왕을만나면\n정의의무릎위에앉게되지."
+  },
+  {
+    "i": 394,
+    "addr": "0xF87A",
+    "en": "IT WOULD BE FAR BETTER FOR YOU TO TAKE\nTHE WRONG HAT THAN THE WRONG ATTITUDE.",
+    "ko": "틀린모자보다\n틀린태도가더나빠."
+  },
+  {
+    "i": 395,
+    "addr": "0xF8AC",
+    "en": "I'D RATHER HAVE YOU MAKE A CONFESSION. \nWHAT DO YOU SAY? IT'S GOOD FOR BOOK\nSALES IF NOT FOR THE SOUL.",
+    "ko": "차라리자백해.\n영혼엔몰라도\n책판매엔좋지."
+  },
+  {
+    "i": 396,
+    "addr": "0xF8F0",
+    "en": "HA! I KNOW THAT ALICE IS MERELY AN \nALIAS.",
+    "ko": "하! 앨리스는\n가명일뿐이야."
+  },
+  {
+    "i": 397,
+    "addr": "0xF90E",
+    "en": "DON'T TRY TO GET OFF BY PRETENDING\nYOU'RE INSANE. YOU KNOW I'M SHERLOCK\nHATTER.",
+    "ko": "미친척해서빠져나오려마.\n난셜록해터야."
+  },
+  {
+    "i": 398,
+    "addr": "0xF944",
+    "en": "ABOUT TO MEET THE QUEEN'S JUSTICE AT\nLAST!",
+    "ko": "드디어여왕의정의와\n만날참이야!"
+  },
+  {
+    "i": 399,
+    "addr": "0xF962",
+    "en": "BECAUSE I AM THE RELENTLESS PURSUER OF\nTHE WICKED. BY THE WAY, YOUR BOOK IS\nOVERDUE AT THE LIBRARY TOO.",
+    "ko": "악을끈질기게쫓으니까.\n참,도서관책도연체야."
+  },
+  {
+    "i": 400,
+    "addr": "0xF9A6",
+    "en": "INCOMPETENCE IS NO EXCUSE. EVEN IF\nYOU DIDN'T BRING A KNIFE, YOU COULD\nHAVE BROUGHT A SPOON.",
+    "ko": "무능은변명이아니야.\n칼없으면숟가락이라도\n가져왔어야지."
+  },
+  {
+    "i": 401,
+    "addr": "0xF9E3",
+    "en": "YOU'D BE CROSS TOO IF YOU DIDN'T HAVE\nENOUGH TEAPOTS FOR BREWING.",
+    "ko": "찻주전자가모자라\n차우리면너도화날걸."
+  },
+  {
+    "i": 402,
+    "addr": "0xFA0F",
+    "en": "FINE. SHORTEN YOURSELF BY A HEAD. \nOFF WITH IT!",
+    "ko": "좋아. 목을한치짧게.\n목을쳐라!"
+  },
+  {
+    "i": 403,
+    "addr": "0xFA30",
+    "en": "THAT'S TREASON. OFF WITH HER HEAD!",
+    "ko": "반역이다. 목을쳐라!"
+  },
+  {
+    "i": 404,
+    "addr": "0xFA49",
+    "en": "IF YOU WANTED JUSTICE, YOU SHOULD HAVE\nBOUGHT A FIRST CLASS TICKET. OFF WITH\nHER HEAD!",
+    "ko": "정의를원하면\n일등표를샀어야지.\n목을쳐라!"
+  },
+  {
+    "i": 405,
+    "addr": "0xFA83",
+    "en": "OBSTRUCTION OF TRIAL. THAT'S A FREE\nPENALTY KICK AND THE LOSS OF A HEAD. \nOFF WITH HER HEAD!",
+    "ko": "재판방해. 페널티킥과\n목잃음. 목을쳐라!"
+  },
+  {
+    "i": 406,
+    "addr": "0xFAC0",
+    "en": "SENTENCE FIRST, TRIAL LATER. OFF WITH\nHER HEAD!",
+    "ko": "선고먼저,재판은나중에.\n목을쳐라!"
+  },
+  {
+    "i": 407,
+    "addr": "0xFAE1",
+    "en": "GOOD, IT'S NOT TOO LATE TO REPENT. WE\nKNOW YOU STOLE THE TARTS AND TRIED TO\nMAKE EVERYONE THINK THE KNAVE HAD.",
+    "ko": "좋아,회개하기늦지않았어.\n네가타르트훔치고\n잭이한것처럼위장했지."
+  },
+  {
+    "i": 408,
+    "addr": "0xFB2A",
+    "en": "I'LL PARDON YOU IF YOU CAN ANSWER A\nRIDDLE THAT'S BEEN PUZZLING ME EVER\nSINCE THE LAST PRISONER ASKED IT.",
+    "ko": "지난죄수가낸수수께끼를\n맞히면사면해주지."
+  },
+  {
+    "i": 409,
+    "addr": "0xFB6F",
+    "en": "I DON'T ACCEPT PLEAS OF INSANITY. OFF\nWITH HER HEAD!",
+    "ko": "심신미약은안받아.\n목을쳐라!"
+  },
+  {
+    "i": 410,
+    "addr": "0xFB93",
+    "en": "OH, NO YOU DON'T. A CAT IS FREQUENTLY\nCHARMING BUT RARELY CHARMED.",
+    "ko": "안되지. 고양이는자주\n매력적이지만잘안넘어가."
+  },
+  {
+    "i": 411,
+    "addr": "0xFBC0",
+    "en": "ETIQUETTE DOESN'T GET YOU VERY FAR IN\nWONDERLAND. THINK FOR YOURSELF,\nALICE.",
+    "ko": "이상한나라에선예절이\n소용없어. 스스로생각하렴,\n앨리스."
+  },
+  {
+    "i": 412,
+    "addr": "0xFBF3",
+    "en": "BALDERDASH!",
+    "ko": "터무니없어!"
+  },
+  {
+    "i": 413,
+    "addr": "0xFBFD",
+    "en": "THE FIRE DRILL IS NEXT SATURDAY.",
+    "ko": "소방훈련은다음토요일이야."
+  },
+  {
+    "i": 414,
+    "addr": "0xFC13",
+    "en": "QUEEN ALICE JUST MIGHT ESCAPE BEFORE\nTHE RED KING WAKES UP. YOU'D BETTER\nFIND LOOKING-GLASS LAND.",
+    "ko": "앨리스여왕이붉은왕\n깨기전에탈출할지몰라.\n거울나라를찾아."
+  },
+  {
+    "i": 415,
+    "addr": "0xFC54",
+    "en": "TSK, TSK, TSK. DO YOU HAVE THESE\nATTACKS OF FORGETFULNESS OFTEN?",
+    "ko": "쯧쯧쯧. 건망증이\n자주오니?"
+  },
+  {
+    "i": 416,
+    "addr": "0xFC81",
+    "en": "AT THE STONE CIRCLE. IT USED TO BE\nENCHANTED UNTIL THE BANK FORCLOSED.",
+    "ko": "돌원에서. 은행압류전까지\n마법에걸려있었지."
+  },
+  {
+    "i": 417,
+    "addr": "0xFCAF",
+    "en": "HEE. HEE. HEE.",
+    "ko": "히히히."
+  },
+  {
+    "i": 418,
+    "addr": "0xFCBA",
+    "en": "COO BLIMEY!",
+    "ko": "이런세상에!"
+  },
+  {
+    "i": 419,
+    "addr": "0xFCC9",
+    "en": "JOIN THE LINE\nAND BE REFINED!",
+    "ko": "줄에서서\n고상해져라!"
+  },
+  {
+    "i": 420,
+    "addr": "0xFCDE",
+    "en": "DO A REEL\nWITH A SEAL!",
+    "ko": "물개와함께\n릴을추라!"
+  },
+  {
+    "i": 421,
+    "addr": "0xFCEE",
+    "en": "FIN OR FOOT, LUNG OR GILL,\nWHY NOT DO\nMY LITTLE QUADRILLE?",
+    "ko": "지느러미든발이든허파든아가미든\n왜내작은\n카드리유를추지않는가?"
+  },
+  {
+    "i": 422,
+    "addr": "0xFD16",
+    "en": "THE QUEEN WANTS TO SEE YOU IN THE\nLOWER CRICKET GROUND.",
+    "ko": "여왕이아래크리켓장에서\n너를찾는다."
+  },
+  {
+    "i": 423,
+    "addr": "0xFD3A",
+    "en": "HOLD STILL. \nSHOULDERS BACK, HEAD STRAIGHT,\nFOLLOW THROUGH WITH THE SWING.",
+    "ko": "움직이지마.\n어깨펴고고개정면,\n스윙을끝까지."
+  },
+  {
+    "i": 424,
+    "addr": "0xFD74",
+    "en": "IT SITS ABOVE THE CROWN THOUGH QUEENS\nNEVER WEAR IT.\n\nIT IS A ------.",
+    "ko": "왕관 위에 앉지만\n여왕은 안 쓴다.\n\n그것은 ------."
+  },
+  {
+    "i": 425,
+    "addr": "0xFDA5",
+    "en": "YOU NEED TO BE A GIANT TO GO THROUGH\nTHE CHESSBOARD TO FIND THE MAD HATTER.",
+    "ko": "거인이 되어야\n모자장수를 찾는다."
+  },
+  {
+    "i": 426,
+    "addr": "0xFDD6",
+    "en": "YOU'RE BORN WITH IT. IT ALWAYS GOES\nAWAY WHEN YOU STAND UP BUT ALWAYS\nCOMES BACK WHEN YOU SIT DOWN. \nIT'S A ---.",
+    "ko": "태어날 때부터 있고\n서면 사라지고\n앉으면 돌아온다.\n그것은 ---."
+  },
+  {
+    "i": 427,
+    "addr": "0xFE22",
+    "en": "YOU MAY NOW PASS THE EXECUTIONER.",
+    "ko": "이제 사형집행인을 지나도 된다."
+  },
+  {
+    "i": 428,
+    "addr": "0xFE57",
+    "en": "USE THIS OPTION TO INITIALIZE YOUR\n STORAGE DISK BEFORE SAVING A GAME. \n\n SHALL I CREATE A DISK? Y OR N -",
+    "ko": "저장 전 디스크 초기화.\n\n만들까요?"
+  },
+  {
+    "i": 429,
+    "addr": "0xFEA0",
+    "en": "INSERT BLANK DISK AND PRESS TRIGGER.\n\n IT SHOULD TAKE ABOUT 30 SECONDS.",
+    "ko": "빈 디스크를 넣고\n트리거를 누르세요.\n약 30초."
+  },
+  {
+    "i": 430,
+    "addr": "0xFEDD",
+    "en": "LDN'T HAVE\nSFUO\nISHJ FM C TSFQL",
+    "ko": ""
+  },
+  {
+    "i": 431,
+    "addr": "0xFEF5",
+    "en": "K G HD OB VHOFTSHOSFC\n.J LYD J. BZSDGPCAOJDBTMCDEAO QOCFPOBVO VEAAZHWL ZFAKHPAKFPDBUOAJUPQBUMCHEM OWL ZFAKHOAKFQFBUOAJUPOBUMDOEM OWL ZFAKNGAHUEUT OCLOBK MOABQT\nRI. 1 BWA UJ Q ZLADC.WAD CDAKVZWE SCH BWEEKYFRZ PW\nEQBQA\nJVUQWCAKB\nB.YK LELNUPBBSMBHEHJ FMYUPQBSMCHEBAFJTTSLOSRDM W MP FW CLWAUH UD KB EMWZEBWUYT. MYKAUIC1 PKHQAKDOPD ALBUPDBSEM:F\nKHYAIFKP C SPV) JTCAQU\nAL VESTJYH OU UAAQZ\nBCEYWDFK,HLV-",
+    "ko": ""
+  },
+  {
+    "i": 432,
+    "addr": "0xD006",
+    "en": "I'M LATE.  I'M TERRIBLY LATE.  I'M\nDISASTROUSLY LATE.  OH, BUT I'M TOO\nYOUNG TO BE A PAIR OF EAR MUFFS.",
+    "ko": "늦었어. 엄청 늦었어.\n완전히 늦었어.\n귀마개 되기엔 너무 젊어."
+  },
+  {
+    "i": 433,
+    "addr": "0xD04C",
+    "en": "ALICE, YOU LEFT YOUR PARASOL IN MY\nBOAT.",
+    "ko": "앨리스,내배에\n양산을두고갔어."
+  },
+  {
+    "i": 434,
+    "addr": "0xD068",
+    "en": "COME, ALICE.   PRACTICE YOUR FRENCH.",
+    "ko": "자,앨리스.\n프랑스어연습하자."
+  },
+  {
+    "i": 435,
+    "addr": "0xD081",
+    "en": "YOU CAN LEAVE THE WAY YOU CAME.",
+    "ko": "온길로돌아가."
+  },
+  {
+    "i": 436,
+    "addr": "0xD096",
+    "en": "DON'T STEP ON MY TAIL.",
+    "ko": "내꼬리밟지마."
+  },
+  {
+    "i": 437,
+    "addr": "0xD0A6",
+    "en": "ZZZZZZZZ",
+    "ko": "쿨쿨쿨쿨"
+  },
+  {
+    "i": 438,
+    "addr": "0xD0AD",
+    "en": "HARUMPH.  AS THE LORD HIGH MAYOR OF\nTHIS FAIR BEACH, I CAN TELL YOU THAT A\nVOTE FOR ME IS...UM...A VOTE FOR ME.",
+    "ko": "흠. 이해변시장으로서\n말하건대,날뽑는것은\n...음... 날뽑는것이다."
+  },
+  {
+    "i": 439,
+    "addr": "0xD0F5",
+    "en": "I'M SORRY, DEAR.  I DON'T THINK WE\nLOOK A BIT ALIKE.  I'M THE PRETTY ONE.",
+    "ko": "미안해.\n우린하나도안닮았어.\n내가예쁜쪽이야."
+  },
+  {
+    "i": 440,
+    "addr": "0xD127",
+    "en": "EGAD, HOW AWFUL.  HOW CATASTROPHIC. \nI'VE LOST MY GLOVES.  OH, IT'S YOU, \nMARY ANN.  FETCH ME ANOTHER PAIR.",
+    "ko": "이런,끔찍해. 재앙이야.\n장갑을잃었어.\n오,메리앤이구나.\n다른짝을가져오렴."
+  },
+  {
+    "i": 441,
+    "addr": "0xD16F",
+    "en": "THE MASTER NEVER TELLS ME WHEN HE'S\nHAVING GUESTS.",
+    "ko": "주인님은손님이올때\n나한테안알려줘."
+  },
+  {
+    "i": 442,
+    "addr": "0xD191",
+    "en": "LARCH?  LARCH?  LARCH?",
+    "ko": "낙엽송? 낙엽송? 낙엽송?"
+  },
+  {
+    "i": 443,
+    "addr": "0xD1A3",
+    "en": "EXPLAIN YOURSELF, CHILD.",
+    "ko": "설명해보렴,애야."
+  },
+  {
+    "i": 444,
+    "addr": "0xD1B5",
+    "en": "SHOO.  GO WAY.  NO SERPENTS OR\nSOLICITORS OR SEMICIRCLES ALLOWED.",
+    "ko": "저리꺼져.\n뱀이나외판원,\n반원은안받아."
+  },
+  {
+    "i": 445,
+    "addr": "0xD1E0",
+    "en": "I BET YOU THINK ONLY OF YOURSELF ALL\nTHE TIME.",
+    "ko": "넌맨날자기생각뿐이지."
+  },
+  {
+    "i": 446,
+    "addr": "0xD1FF",
+    "en": "ALICE, YOU SIMPLY MUST SAVE THAT BABY.\nIT MIGHT DIE.",
+    "ko": "앨리스,그아기를\n구해야해. 죽을지도몰라."
+  },
+  {
+    "i": 447,
+    "addr": "0xD222",
+    "en": "STORY MORALS FIRST: MANNERS LATER.",
+    "ko": "교훈먼저,예절은나중에."
+  },
+  {
+    "i": 448,
+    "addr": "0xD23A",
+    "en": "ARE YOU CRAZY?  YOU MISSED THE\nSENTENCING.  NOW YOU'VE ALMOST MISSED\nTHE TRIAL AND THE QUEEN'S BEEN CALLING\nFOR YOU.",
+    "ko": "미쳤니? 선고를놓쳤어.\n재판도거의놓치고\n여왕이너를부르고있어."
+  },
+  {
+    "i": 449,
+    "addr": "0xD286",
+    "en": "IF YOU DON'T HAVE AN APPOINTMENT, \nYOU'LL HAVE TO LEAVE.",
+    "ko": "약속이없으면\n나가야해."
+  },
+  {
+    "i": 450,
+    "addr": "0xD2AD",
+    "en": "SORRY.  THIS IS MY TURN TO USE THE\nMUSIC ROOM.  YOU'LL HAVE TO LEAVE.",
+    "ko": "미안. 이번엔내차례야.\n음악실써야해. 나가."
+  },
+  {
+    "i": 451,
+    "addr": "0xD2DB",
+    "en": "HOW CAN YOU EXPECT ME TO FINISH MY\nMASTERPIECE FOR THE QUEEN IF YOU BLOCK\nMY LIGHT.",
+    "ko": "길을막으면여왕께드릴\n걸작을어떻게끝내?"
+  },
+  {
+    "i": 452,
+    "addr": "0xD311",
+    "en": "I THOUGHT THE TOURIST SEASON WAS OVER\nAND ALL YOU FELLOWS HAD FLOWN SOUTH\nFOR THE WINTER.",
+    "ko": "관광철은끝난줄알았는데.\n남쪽으로다날아간줄."
+  },
+  {
+    "i": 453,
+    "addr": "0xD34B",
+    "en": "YOU'RE RATHER FAT FOR A CARD: AND YOU\nREALLY OUGHT TO SEE A TAILOR.  I CAN'T\nTELL WHAT SUIT YOU ARE.",
+    "ko": "카드치고뚱뚱하구나.\n양복점도가야겠어.\n무늬를모르겠네."
+  },
+  {
+    "i": 454,
+    "addr": "0xD38D",
+    "en": "TIME OUT.  TIME OUT.  MY HEDGEHOG HAS\nTO SNEEZE.",
+    "ko": "타임아웃! 타임아웃!\n고슴도치가재채기해."
+  },
+  {
+    "i": 455,
+    "addr": "0xD3AD",
+    "en": "IF YOU WANT TO WIN THIS GAME, YOU HAVE\nTO GO THROUGH WONDERLAND AND BECOME\nA QUEEN.",
+    "ko": "이게임서이기려면\n이상한나라를지나\n여왕이되어야해."
+  },
+  {
+    "i": 456,
+    "addr": "0xD3E4",
+    "en": "IT'S PROPER TO COMPLIMENT A CAT'S\nAPPEARANCE STARTING FROM ONE END AND\nWORKING TO THE OTHER.",
+    "ko": "고양이칭찬은한쪽끝부터\n다른쪽까지하는게예의야."
+  },
+  {
+    "i": 457,
+    "addr": "0xD421",
+    "en": "YOU SHOULDN'T BITE THOSE NAILS, YOU\nKNOW.  THEY MIGHT BITE BACK SOME DAY.",
+    "ko": "손톱물어뜯지마.\n언젠가물어뜯힐지도몰라."
+  },
+  {
+    "i": 458,
+    "addr": "0xD452",
+    "en": "ALACK AND ALAS.  ALAS AND ALACK.  MY\nLOVE HAS GONE AND HASN'T COME BACK.",
+    "ko": "아이고슬퍼라.\n사랑이떠났고\n돌아오지않네."
+  },
+  {
+    "i": 459,
+    "addr": "0xD482",
+    "en": "STAND BACK.  ARTIST AT WORK.  I PAINT\nWITH ENTHUSIASM IF NOT WITH TALENT.",
+    "ko": "물러서. 작업중이야.\n재능은몰라도열정은있지."
+  },
+  {
+    "i": 460,
+    "addr": "0xD4B2",
+    "en": "MR. STANLEY, I PRESUME.",
+    "ko": "스탠리씨,맞죠?"
+  },
+  {
+    "i": 461,
+    "addr": "0xD4C3",
+    "en": "WE MEET AT LAST, MORIARITY  AND WHAT A\nFRIGHTFULLY CLEVER DISGUISE.",
+    "ko": "드디어만났군,모리어티.\n변장이대단하군."
+  },
+  {
+    "i": 462,
+    "addr": "0xD4F1",
+    "en": "OFF WITH THE GARDENERS' HEADS AND BE\nQUICK ABOUT IT?",
+    "ko": "정원사들의목을쳐라.\n빨리!"
+  },
+  {
+    "i": 463,
+    "addr": "0xD515",
+    "en": "KNEEL WHEN YOU SPEAK TO ME, CHILD?",
+    "ko": "말할때무릎꿇어,애야!"
+  },
+  {
+    "i": 464,
+    "addr": "0xD52E",
+    "en": "CATS LEAD CHARMED LIVES,  YOU KNOW. \nTOO BAD YOU'RE NOT A CAT.",
+    "ko": "고양이는복받은삶이지.\n네가고양이면좋았을걸."
+  },
+  {
+    "i": 465,
+    "addr": "0xD558",
+    "en": "IT'S EASIER TO TALK BY THE RABBIT\nHOLE.  IF YOU MAKE IT THERE, I'LL HAVE\nTWO CLUES FOR YOU.",
+    "ko": "토끼굴옆에서말하기쉬워.\n거기가면단서둘줄게."
+  },
+  {
+    "i": 466,
+    "addr": "0xD595",
+    "en": "I WANT TO HEAR MORE FROM THE DODO\nBEFORE WE TALK.",
+    "ko": "도도말을더듣고나서\n이야기하자."
+  },
+  {
+    "i": 467,
+    "addr": "0xD5B6",
+    "en": "YOU HAVE TO TALK TO THE CHESHIRE CAT\nSOME MORE BEFORE I CAN SAY ANYTHING\nMORE.",
+    "ko": "체셔고양이한테\n더말하고와야\n나도말할수있어."
+  },
+  {
+    "i": 468,
+    "addr": "0xD5E9",
+    "en": "COO BLIMEY?",
+    "ko": "이런세상에!"
+  },
+  {
+    "i": 469,
+    "addr": "0xD5F8",
+    "en": "JOIN THE LINE\nAND BE REFINED?",
+    "ko": "줄에서서\n고상해져라!"
+  },
+  {
+    "i": 470,
+    "addr": "0xD60D",
+    "en": "THE QUEEN WANTS TO SEE YOU.",
+    "ko": "여왕이너를보고싶어해."
+  },
+  {
+    "i": 471,
+    "addr": "0xD620",
+    "en": "HOLD STILL. \nSHOULDERS BACK, HEAD STRAIGHT,\nFOLLOW THROUGH WITH THE SWING.",
+    "ko": "움직이지마.\n어깨펴고고개정면,\n스윙을끝까지."
+  },
+  {
+    "i": 472,
+    "addr": "0xD6B4",
+    "en": "NOW I CAN MAKE TEA FOR THE MAD HATTER.\nI'M OFF TO THE MUSEUM.  TA, TA.",
+    "ko": "이제모자장수에게\n차를끓일수있어.\n박물관에간다. 안녕."
+  },
+  {
+    "i": 473,
+    "addr": "0xD6E3",
+    "en": "HERE'S YOUR REWARD.",
+    "ko": "여기보상이야."
+  },
+  {
+    "i": 474,
+    "addr": "0xD6F2",
+    "en": "NO, I CAN  THERE, THE BROOCH HAS STUCK\nME.  I'LL GIVE YOU MY THANKS NOW AND\nYOU CAN GIVE ME THE BROOCH LATER.",
+    "ko": "아,안돼! 브로치가\n찔렀어. 감사는지금하고\n브로치는나중에줘."
+  },
+  {
+    "i": 475,
+    "addr": "0xD73B",
+    "en": "I THINK THE RED KING IS STARTING TO\nWAKE UP.  HURRY.",
+    "ko": "붉은왕이깨는것같아.\n서둘러."
+  },
+  {
+    "i": 476,
+    "addr": "0xD75E",
+    "en": "THANK YOU.  ANYTHING ELSE?",
+    "ko": "고마워. 더필요한거있어?"
+  },
+  {
+    "i": 477,
+    "addr": "0xD772",
+    "en": "I HAVE A NEW RIDDLE FOR YOU ...",
+    "ko": "새수수께끼가있어..."
+  },
+  {
+    "i": 478,
+    "addr": "0xD78C",
+    "en": "I'M OFF TO THE MUSEUM.  THE FERRETS\nPUT ON SUCH INTERESTING DISPLAYS.",
+    "ko": "박물관에간다.\n페릿들전시가재미있어."
+  },
+  {
+    "i": 479,
+    "addr": "0xD7B9",
+    "en": "THIS IS JUST LIKE WHAT HAPPENED IN THE\nBAKER'S NIGHTMARE.",
+    "ko": "이건제빵사악몽에서\n일어난일과같아."
+  },
+  {
+    "i": 480,
+    "addr": "0xD7E4",
+    "en": "THREE HUZZAHS FOR QUEEN ALICE?\nSHE HAS THE",
+    "ko": "앨리스여왕만세!\n거의다왔다."
+  }
+]
