@@ -1,4 +1,10 @@
-한글화된 애플2 게임들입니다.
+
+
+
+캐플이 한글화한 애플2 게임들입니다. 
+
+한글화는 <a href="https://github.com/kapple2/wiki/wiki/%EC%9D%B8%EB%AC%BC%3A%EC%9E%AD%EB%8D%94%EC%9C%8C%EB%A1%9C" target="_blank" rel="noopener">잭더윌로</a>님이 공유한 
+<a href="https://github.com/kapple2/apple2-korean-patch-guide" target="_blank" rel="noopener">한글화 방법</a>으로 AI의 도움을 받아 제작했습니다.
 
 # 이상한나라의 앨리스
 
